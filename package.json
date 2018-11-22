@@ -1,5 +1,5 @@
 {
-	"name": "dndtest",
+	"name": "rso-directory",
 	"version": "1.0.0",
 	"description": "",
 	"main": "index.js",
@@ -25,6 +25,7 @@
 	},
 	"devDependencies": {
 		"@vue/component-compiler-utils": "^2.2.0",
+		"babel-core": "^6.26.3",
 		"parcel-bundler": ">=1.10.0",
 		"postcss-import": "^12.0.0",
 		"postcss-url": "^8.0.0",
