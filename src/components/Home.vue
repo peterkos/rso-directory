@@ -2,7 +2,7 @@
 	<div id="home">
 
 		<!-- This is the first view shown to the user. -->
-		<h1 class="title has-text-centered has-text-white is-vcentered">Welcome! Please select a category above.</h1>
+		<h1 class="title has-text-centered is-vcentered">Hello, World!</h1>
 
 	</div>
 
