@@ -16,8 +16,7 @@
 					</thead>
 					<tbody>
 						<tr v-for="rso in rsos">
-						<a class="button is-info" @click="getImage(rso)">Press me</a>
-							<td> <img :src="imageURLs[rso.imageTag]" /></td>
+							<td> {{ getImage(rso) }} <img :src="imageURLs[rso.imageTag]" /></td>
 							<td>{{ rso.logo }}</td>
 							<td>{{ rso.name }}</td>
 						</tr>
@@ -49,7 +48,6 @@
 					name: "",
 					description: "",
 					imageTag: "",
-					// imageURL: ""
 				},
 				imageURLs: []
 			}
