@@ -13,6 +13,5 @@ let config = {
 }
 
 let app = Firebase.initializeApp(config)
-
 const db = app.database()
 export default db
