@@ -4,7 +4,6 @@
 		<!-- This is the first view shown to the user. -->
 		<h1 class="title has-text-centered is-vcentered">Hello, World!</h1>
 
-		<a class="button is-info" @click="test()">Press me</a>
 
 		<!-- Let's show a table of RSOs -->
 		<div class="columns is-centered">
@@ -17,7 +16,8 @@
 					</thead>
 					<tbody>
 						<tr v-for="rso in rsos">
-							<td> <img :src="imageURL" /></td>
+						<a class="button is-info" @click="getImage(rso)">Press me</a>
+							<td> <img :src="imageURLs[rso.imageTag]" /></td>
 							<td>{{ rso.logo }}</td>
 							<td>{{ rso.name }}</td>
 						</tr>
@@ -48,28 +48,34 @@
 				rso: {
 					name: "",
 					description: "",
-					imageTag: ""
+					imageTag: "",
+					// imageURL: ""
 				},
-				imageURL: "",
+				imageURLs: []
 			}
 		},
 		methods: {
-			test() {
+			getImage(currentRSO) {
 
-
-				// Sets propre this
+				// Sets proper this
 				let current = this
 
 				// @TODO: Update rso.image for each RSO given its tag
 				// Setting up FB Storage
 				var storageRef = Firebase.storage().ref()
-				var firstImageRef = storageRef.child("0.png")
+				var firstImageRef = storageRef.child(currentRSO.imageTag.toString() + ".png")
+
+				// Don't grab URL if url already exists
+				// Precondition: imageTag is a index corresponding to the RSO
+				if (this.imageURLs[currentRSO.imageTag]) {
+					return
+				}
 
 				// Actually grab it
 				firstImageRef.getDownloadURL().then(function(url) {
-					console.log(url)
-					current.imageURL = url
-					console.log(current.imageURL)
+						current.imageURLs.push(url)
+				}).catch(function(error) {
+					console.log(error)
 				})
 
 			},
