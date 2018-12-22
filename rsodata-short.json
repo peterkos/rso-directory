@@ -1,0 +1,1578 @@
+[
+	{
+		"name": "(LUX) Film Production Club",
+		"desc": "LUX serves to fill the gap that exists within the University of Washington's video production community. LUX is designed to be a creative, open source, collaborative network that puts Directors, Actors, Cinematographers, Writers, Editors, Visual Effects Designers, Musicians, Sound Designers, and all around creatives alike underneath one roof. By doing this it serves to create a community of artists that can collaborate on each other's projects. The club also features work, organizes festival deadlines, and connects to other schools to broaden it's networking abilities. To individuals who are new to the art of video production, LUX is also a learning platform where more experienced individuals have an opportunity to showcase what they have learned and even give keynotes on particular topics within film. LUX is a dynamic video platform that will evolve and expand.",
+		"imageTag": 0,
+		"emails": "luxvideo@uw.edu",
+		"category": "PERFORMING",
+		"facebook": "https://www.facebook.com/uwluxvideo/"
+	},
+	{
+		"name": "17th Ave House",
+		"desc": "To provide a place for college students to live in an encouraging environment where they can grow in their faith and have a great time; to show Jesus to the UW community by being involved, loving them, and serving them.",
+		"imageTag": 1,
+		"emails": "xvii@uw.edu",
+		"category": "FRATERNITIES & SORORITIES - OTHER",
+		"facebook": "https://www.facebook.com/17thavehouse/?fref=ts"
+	},
+	{
+		"name": "3D Printing Club, Washington Open Object Fabricators",
+		"desc": "It shall be the purpose of this organization to educate interested UW students and other community members about Additive Manufacturing technology. This includes construction of the organization�s own printers, use of the organization�s printers for projects, public outreach events, and research and innovations with the technology for the benefit of Additive Manufacturing.",
+		"imageTag": 2,
+		"emails": "woof3d@uw.edu",
+		"category": "ENGINEERING",
+		"facebook": "https://www.facebook.com/WOOF3DUW/?fref=ts"
+	},
+	{
+		"name": "Acacia Fraternity",
+		"desc": "To foster the development of UW men through the five areas of academic achievement, community service, leadership, character building, and individual development.",
+		"imageTag": 3,
+		"emails": "acaciauw@uw.edu",
+		"category": "FRATERNITIES & SORORITIES - IFC / PH",
+		"facebook": "NA"
+	},
+	{
+		"name": "Academy of Managed Care Pharmacy",
+		"desc": "To advance the quality and affordability of our health care system by promoting the application of medication-related research and education.",
+		"imageTag": 4,
+		"emails": "uwamcp@uw.edu",
+		"category": "GRADUATE / PROFESSIONAL",
+		"facebook": "NA"
+	},
+	{
+		"name": "Access Student Resource Group",
+		"desc": "The Access Student Resource Group (ASRG) has been formed to enhance the academic and social experience of Access students and to create opportunities for Access students to help the educational and service goals of the University and its greater community.�For questions or comments, �write to ASRG at asrg@uw.edu",
+		"imageTag": 5,
+		"emails": "asrg@uw.edu",
+		"category": "SPECIAL INTEREST",
+		"facebook": "NA"
+	},
+	{
+		"name": "Active Minds at the University of Washington",
+		"desc": "Active Minds at UW is the newest chapter among over 400 currently at college campuses across the country. In association with the national organization, Active Minds, we strive to promote mental health awareness and education through campaigns, fundraising, informational meetings, and community-wide events. Examples of such campaigns and events include: Stress Less Week, Suicide Prevention Month, National Eating Disorders Awareness Week, etc.. Mental health disorders are an ever-growing problem in college. Unfortunately, most students suffer silently for fear of what others may think, or they simply don�t know where to start in getting help. It can be horribly isolating. Our goal is to provide a place where students can learn about mental health, and mental health issues. We hope to provide information about resources both on and off campus in order to promote help-seeking behaviors in individuals who may be able to benefit from them. We also work to relay the latest scholarly findings of mental health research and information as it pertains to college students. Mental health affects everyone in one way or another, which is why we need to bring Active Mind to UW. All students are welcome and encouraged to join. Please be sure to keep in mind that this is NOT a support group, and we do not provide any mental health counseling of any kind. We are not mental health professionals, but rather students interested in spreading mental health information and awareness, in order to stand up against the stigma surrounding mental health problems, and to promote a mentally healthy campus. Students with or without mental health issues are equally encouraged to join.",
+		"imageTag": 6,
+		"emails": "actminds@uw.edu",
+		"category": "HEALTH SCIENCES",
+		"facebook": "https://www.facebook.com/activemindsuwseattle"
+	},
+	{
+		"name": "acts2fellowship",
+		"desc": "The purpose of our group is to live out our faith, grow in our love for God, and invite students to explore Christianity.  We want to create a tight knit community where students are comfortable with asking questions and learning more about the message of Jesus Christ.",
+		"imageTag": 7,
+		"emails": "a2f@uw.edu",
+		"category": "RELIGIOUS / SPIRITUAL",
+		"facebook": "www.facebook.com/acts2fellowshipUW"
+	},
+	{
+		"name": "Actuarial Club",
+		"desc": "To network with local actuaries, build a campus community, inform students about the actuarial profession, and organize study groups for the actuarial exams.",
+		"imageTag": 8,
+		"emails": "Actuary@uw.edu",
+		"category": "ACADEMIC",
+		"facebook": "https://www.facebook.com/uwactuarial"
+	},
+	{
+		"name": "ADEA Chapter for Students, Residents and Fellows at the University of Washington",
+		"desc": "To promote academic careers in dentistry",
+		"imageTag": 9,
+		"emails": "NA",
+		"category": "MEDICAL / DENTAL / NURSING / PHARMACY",
+		"facebook": "NA"
+	},
+	{
+		"name": "Adelpos",
+		"desc": "To promote the faith of Christianity among young adults by encouraging the members to meditate on the word of God and have fellowship in Christ.",
+		"imageTag": 10,
+		"emails": "adelpos@uw.edu",
+		"category": "RELIGIOUS / SPIRITUAL",
+		"facebook": "https://www.facebook.com/seattleadelpos"
+	},
+	{
+		"name": "Advanced Robotics at the University of Washington",
+		"desc": "To promote the robotics community at the University of Washington, and to compete in the RoboMaster Competition. Additionally, we aim to create an across-campus community that works together on a large scale project in a semi-corporate atmosphere.",
+		"imageTag": 11,
+		"emails": "robomstr@uw.edu",
+		"category": "ENGINEERING",
+		"facebook": "https://www.facebook.com/advancedroboticsUW/"
+	},
+	{
+		"name": "Aerial Robotics Club",
+		"desc": "The purpose of this organization to promote the development of engineering skills through STEM work pertaining to multi-rotor drones. The Aerial Robotics Club is structured primarily to compete in inter-university competitions with a secondary focus of hosting multi-drone choreography performances, allowing for a collaboration between engineering and art. Aerial Robotics Club is an opportunity for students to engage with emerging drone technology outside of the lab setting.",
+		"imageTag": 12,
+		"emails": "NA",
+		"category": "ENGINEERING",
+		"facebook": "NA"
+	},
+	{
+		"name": "African Student Association",
+		"desc": "To reach out to Africans on campus and beyond and bring them educational, cultural, and community enrichment.",
+		"imageTag": 13,
+		"emails": "uwasa@uw.edu",
+		"category": "CULTURAL / INTERNATIONAL",
+		"facebook": "https://www.facebook.com/asauw/"
+	},
+	{
+		"name": "AIESEC in Seattle",
+		"desc": "AIESEC functions as an international platform for students to explore and develop their leadership potential by facilitating international exchanges between 120+ countries & territories in the form of internships and volunteer experiences. Our mission statement is \"We strive to achieve peace and fulfillment of humankind's potential",
+		"imageTag": 14,
+		"emails": "aiesecer@uw.edu",
+		"category": "BUSINESS",
+		"facebook": "https://www.facebook.com/aiesecus"
+	},
+	{
+		"name": "AIGA, the professional association for design | UW chapter",
+		"desc": "As the profession�s oldest and largest professional membership organization for design�with 70 chapters and more than 25,000 members�we advance design as a professional craft, strategic advantage, and vital cultural force. From content that defines the global practice to events that connect and catalyze, we work to enhance the value and deepen the impact of design across all disciplines on business, society, and our collective future.",
+		"imageTag": 15,
+		"emails": "aigauw09@uw.edu",
+		"category": "ACADEMIC",
+		"facebook": "NA"
+	},
+	{
+		"name": "Al-Maghrib Ambassadors",
+		"desc": "It shall be the purpose of this organization to unite the students of AlMaghrib Institute at the University of Washington, to help host AlMaghrib seminars and to encourage members to give back to their communities from what they learn from AlMaghrib.",
+		"imageTag": 16,
+		"emails": "ruhma206@uw.edu",
+		"category": "RELIGIOUS / SPIRITUAL",
+		"facebook": "NA"
+	},
+	{
+		"name": "Algorithmic Trading Club",
+		"desc": "The Algorithmic Trading Club is a collaborative community for students who are interested in the financial market, learning computational skills in finance and risk management, all the while exploring professional networks.",
+		"imageTag": 17,
+		"emails": "finegin@uw.edu",
+		"category": "BUSINESS",
+		"facebook": "https://www.facebook.com/UW-Financial-Engineering-Club-UWFEC-592421630915304/"
+	},
+	{
+		"name": "Alliance for Equal Representation in Medicine",
+		"desc": "The mission of AFERM is to promote diversity within the University of Washington School of Medicine (UWSOM) for the purpose of providing culturally competent and representative future physicians for all patients and communities.",
+		"imageTag": 18,
+		"emails": "afermuw@uw.edu",
+		"category": "MEDICAL / DENTAL / NURSING / PHARMACY",
+		"facebook": "NA"
+	},
+	{
+		"name": "Alpha Chi Omega",
+		"desc": "Alpha Chi Omega inspires and encourages its members to achieve the highest moral, cultural, and intellectual level in the art of daily living.",
+		"imageTag": 19,
+		"emails": "alphachi@uw.edu",
+		"category": "FRATERNITIES & SORORITIES - IFC / PH",
+		"facebook": "https://www.facebook.com/pages/UW-Alpha-Chi-Omega/129379750441299"
+	},
+	{
+		"name": "Alpha Delta Phi Fraternity",
+		"desc": "The objectives of THE ALPHA DELTA PHI are the cultivation of character, learning, and enduring friendships.",
+		"imageTag": 20,
+		"emails": "eells@uw.edu",
+		"category": "FRATERNITIES & SORORITIES - IFC / PH",
+		"facebook": "NA"
+	},
+	{
+		"name": "Alpha Delta Pi",
+		"desc": "Alpha Delta Pi is the first secret society for women. Providing women with a well rounded college experience.",
+		"imageTag": 21,
+		"emails": "adpiuw@uw.edu",
+		"category": "FRATERNITIES & SORORITIES - IFC / PH",
+		"facebook": "NA"
+	},
+	{
+		"name": "Alpha Epsilon Delta Pre-Medical Honor Society",
+		"desc": "We are dedicated to encouraging and recognizing excellence in pre-medical scholarship, bringing similarly minded people together, promoting community service, and empowering students to make informed decisions in the pursuit of healthcare professions.",
+		"imageTag": 22,
+		"emails": "aed@uw.edu",
+		"category": "MEDICAL / DENTAL / NURSING / PHARMACY",
+		"facebook": "https://www.facebook.com/aeduw"
+	},
+	{
+		"name": "Alpha Epsilon Phi",
+		"desc": "The mission of Alpha Epsilon Phi Sorority is to inspire and support exemplary women dedicated to friendship and a lifelong commitment to Alpha Epsilon Phi while building on the vision of our Jewish founders.",
+		"imageTag": 23,
+		"emails": "uwaephi@uw.edu",
+		"category": "FRATERNITIES & SORORITIES - IFC / PH",
+		"facebook": "https://www.facebook.com/AEPhiUW/?fref=ts"
+	},
+	{
+		"name": "Alpha Epsilon Pi",
+		"desc": "To provide a Fraternity experience for young men on campus, an experience of both academic and social balance, in hopes of developing the next leaders of tomorrow.",
+		"imageTag": 24,
+		"emails": "aepi@uw.edu",
+		"category": "FRATERNITIES & SORORITIES - IFC / PH",
+		"facebook": "University of Washington AEPi"
+	},
+	{
+		"name": "Alpha Gamma Delta",
+		"desc": "Alpha Gamma Delta is a women's fraternity based on the ideals of sisterhood, scholarship, and service.",
+		"imageTag": 25,
+		"emails": "agd@uw.edu",
+		"category": "FRATERNITIES & SORORITIES - IFC / PH",
+		"facebook": "NA"
+	},
+	{
+		"name": "alpha Kappa Delta Phi",
+		"desc": "The purpose of this Asian American interest sorority is to promote sisterhood, scholarship, leadership and Asian awareness in the university and community, while encouraging the expression of the individual. The sorority is composed of highly motivated women with diverse backgrounds, interests and fields of study. Each woman, however, shares a strong bond of love, friendship and sisterhood. With a supportive network of sisters, each woman can strive to fulfill her personal, academic and career goals.",
+		"imageTag": 26,
+		"emails": "akdphi@uw.edu",
+		"category": "FRATERNITIES & SORORITIES - UGC",
+		"facebook": "https://www.facebook.com/uwakdphi"
+	},
+	{
+		"name": "Alpha Kappa Psi Business Fraternity",
+		"desc": "To bring together students who share an interest in business and provide them with opportunities to learn and grow through professional development, philanthropy, social events, and more.",
+		"imageTag": 27,
+		"emails": "akappsi@uw.edu",
+		"category": "BUSINESS",
+		"facebook": "https://www.facebook.com/akpsiuw/"
+	},
+	{
+		"name": "Alpha Omega Campus Ministry",
+		"desc": "The purpose of this organization is to create a fun and safe environment for students to fellowship, and discuss Christianity and the bible.",
+		"imageTag": 28,
+		"emails": "alphao@uw.edu",
+		"category": "RELIGIOUS / SPIRITUAL",
+		"facebook": "https://www.facebook.com/seattlecampusministry/"
+	},
+	{
+		"name": "Alpha Omicron Pi",
+		"desc": "To encourage a spirit of Fraternity and love among its members; to stand at all times for character, dignity, scholarship, and college loyalty; to strive for and support the interests of the colleges and universities in which chapters are installed and in no way to disregard, injure, or sacrifice those interests for the sake of prestige or advancement of the fraternity, or any of its chapters.",
+		"imageTag": 29,
+		"emails": "uwaoii@uw.edu",
+		"category": "FRATERNITIES & SORORITIES - IFC / PH",
+		"facebook": "https://www.facebook.com/AOIIUpsilon/?fref=ts"
+	},
+	{
+		"name": "Alpha Phi",
+		"desc": "Alpha Phi is an organization dedicated to promoting sisterhood, cultivating leadership, encouraging intellectual curiosity, and advocating service among its members.",
+		"imageTag": 30,
+		"emails": "alphaphi@uw.edu",
+		"category": "FRATERNITIES & SORORITIES - IFC / PH",
+		"facebook": "https://www.facebook.com/UwAlphaPhi"
+	},
+	{
+		"name": "Alpha Phi Alpha Fraternity Incorporated",
+		"desc": "ALPHA PHI ALPHA FRATERNITY, INC. DEVELOPS LEADERS, PROMOTES BROTHERHOOD AND ACADEMIC EXCELLENCE, WHILE PROVIDING SERVICE AND ADVOCACY FOR OUR COMMUNITIES.",
+		"imageTag": 31,
+		"emails": "NA",
+		"category": "FRATERNITIES & SORORITIES - IFC / PH",
+		"facebook": "Instagram: uwalphas"
+	},
+	{
+		"name": "Alpha Phi Omega - Gamma Alpha",
+		"desc": "The UW Chapter of Alpha Phi Omega (a national co-ed service fraternity) is dedicated to fostering leadership, friendship, and service in our members so as to develop as servant leaders in the community.",
+		"imageTag": 32,
+		"emails": "apo@uw.edu",
+		"category": "SPECIAL INTEREST",
+		"facebook": "facebook.com/UWapo"
+	},
+	{
+		"name": "Alpha Sigma Phi",
+		"desc": "To better the man.",
+		"imageTag": 33,
+		"emails": "alphasig@uw.edu",
+		"category": "FRATERNITIES & SORORITIES - IFC / PH",
+		"facebook": "https://www.facebook.com/pages/UW-Alpha-Sigma-Phi/161212323947100?fref=ts"
+	},
+	{
+		"name": "Alpha Tau Omega",
+		"desc": "We strive to provide men of solid character a complete and rewarding college experience. Here at ATO we pride ourselves on continuing this tradition through social, academic, and personal growth. We are a strongly tied team of ambitious and genuine men working together to enrich and shape our college livelihood.",
+		"imageTag": 34,
+		"emails": "uwato@uw.edu",
+		"category": "FRATERNITIES & SORORITIES - IFC / PH",
+		"facebook": "https://www.facebook.com/uwato/"
+	},
+	{
+		"name": "Alpha Theta Delta",
+		"desc": "A professional network empowering members of all backgrounds with a solid foundation in interdisciplinary design.",
+		"imageTag": 35,
+		"emails": "alphadt@uw.edu",
+		"category": "FRATERNITIES & SORORITIES - OTHER",
+		"facebook": "https://www.facebook.com/AlphaThetaDeltaUW"
+	},
+	{
+		"name": "Alpha Xi Delta Sorority",
+		"desc": "Part of the Recognition Agreement between AXiD and UW, would love to become more affiliated with UW!",
+		"imageTag": 36,
+		"emails": "alphaxi@uw.edu",
+		"category": "FRATERNITIES & SORORITIES - IFC / PH",
+		"facebook": "UW Alpha Xi Delta"
+	},
+	{
+		"name": "American Academy of Developmental Medicine and Dentistry, University of Washington Chapter",
+		"desc": "Our mission is to improve the quality of healthcare for individuals with neurodevelopmental disorders and intellectual disabilities. The most valuable contribution we can make is to contribute our expertise where it will have the most significant impact - the universities and healthcare centers where healthcare professionals are trained. Furthermore, we can enhance our contribution by working collaboratively with advocacy organizations and associations that serve our patients.",
+		"imageTag": 37,
+		"emails": "aadmd1@uw.edu",
+		"category": "MEDICAL / DENTAL / NURSING / PHARMACY",
+		"facebook": "https://www.facebook.com/UW-AADMD-Chapter-400118330341427/?hc_ref=SEARCH&fref=nf"
+	},
+	{
+		"name": "American Fisheries Society University of Washington Student Chapter",
+		"desc": "The mission of the Chapter is to: Advance the conservation and intelligent management of aquatic resources within a context of sound ecological principles, gather and disseminate information pertaining to aquatic science and fisheries management.",
+		"imageTag": 38,
+		"emails": "afsuw@uw.edu",
+		"category": "SCIENCES",
+		"facebook": "NA"
+	},
+	{
+		"name": "American Indian Science and Engineering Society-UW Chapter",
+		"desc": "The mission of the American Indian Science and Engineering Society (AISES)-UW Chapter is to substantially increase the representation of American Indians, Alaskan Natives, Native Hawaiians, Pacific Islanders, First Nations and other indigenous peoples in North America   in science, technology, engineering and math (STEM) studies and careers. We aim to combine traditional native values with the STEM fields.",
+		"imageTag": 39,
+		"emails": "aisesuw@uw.edu",
+		"category": "ENGINEERING",
+		"facebook": "https://www.facebook.com/aisesuw/"
+	},
+	{
+		"name": "American Institute of Aeronautics and Astronautics at UW, Student Branch",
+		"desc": "The Objective of this organization is to further the purposes and programs of the American Institute of Aeronautics and Astronautics at the University of Washington.",
+		"imageTag": 40,
+		"emails": "aiaauw@uw.edu",
+		"category": "ENGINEERING",
+		"facebook": "NA"
+	},
+	{
+		"name": "American Institute of Chemical Engineers UW Student Chapter",
+		"desc": "It shall be the purpose of this organization to promote a network of local and national chemical engineers.",
+		"imageTag": 41,
+		"emails": "aiche@uw.edu",
+		"category": "ENGINEERING",
+		"facebook": "NA"
+	},
+	{
+		"name": "American Marketing Association, UW Chapter",
+		"desc": "The UW American Marketing Association provides a professional and fun environment that promotes proactive and passionate involvement. It is the place where marketers are made.",
+		"imageTag": 42,
+		"emails": "amaclub@uw.edu",
+		"category": "BUSINESS",
+		"facebook": "NA"
+	},
+	{
+		"name": "American Medical Student Association, University of Washington Medical Chapter",
+		"desc": "We are committed to involving members in the social, moral and ethical obligations of the profession of medicine and contributing to the welfare medical and premedical students.",
+		"imageTag": 43,
+		"emails": "amsa@uw.edu",
+		"category": "MEDICAL / DENTAL / NURSING / PHARMACY",
+		"facebook": "https://www.facebook.com/AMSANational"
+	},
+	{
+		"name": "American Medical Women's Association",
+		"desc": "To be an advocates for women's health and encourage women in the medical field through networking, workshops, and fundraising.",
+		"imageTag": 44,
+		"emails": "NA",
+		"category": "HEALTH SCIENCES",
+		"facebook": "https://www.facebook.com/UDubAMWA/"
+	},
+	{
+		"name": "American Meteorological Society Student Chapter at the UW",
+		"desc": "The purpose of the AMS at UW is to promote the education of the atmospheric and related sciences as well as to provide an environment where persons interested in such can share experiences through social, volunteer, and professional activities.",
+		"imageTag": 45,
+		"emails": "weather@uw.edu",
+		"category": "SCIENCES",
+		"facebook": "https://www.facebook.com/groups/uwams/"
+	},
+	{
+		"name": "American Mock World Health Organization",
+		"desc": "AMWHO UW aims to stand as a chapter of the national model-WHO organization, where students can explore health policy/administration and its global impact.",
+		"imageTag": 46,
+		"emails": "amwho@uw.edu",
+		"category": "HEALTH SCIENCES",
+		"facebook": "NA"
+	},
+	{
+		"name": "American Pharmacists Association: University of Washington Student Chapter",
+		"desc": "The American Pharmacists Association (APhA), established in 1852, is the largest pharmacy association in the United States, serving more than 62,000 members. APhA-ASP provides student pharmacists with opportunities for professional growth, opportunities to improve patient care, and to envision and advance the future of pharmacy. By joining a professional organization, you can help ease the transition into pharmacy school. APhA-ASP will help you meet new people, learn about current issues facing pharmacy practice, participate in career development opportunities, and personal and professional growth.",
+		"imageTag": 47,
+		"emails": "apauwsc@uw.edu",
+		"category": "MEDICAL / DENTAL / NURSING / PHARMACY",
+		"facebook": "NA"
+	},
+	{
+		"name": "American Public Works Association University of Washington Chapter",
+		"desc": "To connect UW Civil and Environmental Engineering students with professional engineering world through the Washington chapter of APWA.",
+		"imageTag": 48,
+		"emails": "apwa@uw.edu",
+		"category": "ENGINEERING",
+		"facebook": "https://www.facebook.com/groups/157202237966762/"
+	},
+	{
+		"name": "American Society of Civil Engineers",
+		"desc": "To enhance the personal and professional development of civil engineering students and to expose those students to the professional civil engineering community.",
+		"imageTag": 49,
+		"emails": "asce@uw.edu",
+		"category": "ENGINEERING",
+		"facebook": "https://www.facebook.com/groups/asceuw/"
+	},
+	{
+		"name": "American Society of Consultant Pharmacists",
+		"desc": "ASCP is an international professional association that provides leadership, education, advocacy, and resources to advance the practice of consultant and senior care pharmacy. Its mission is to empower pharmacists to enhance the quality of care for all older persons through the appropriate use of medications and the promotion of healthy aging.",
+		"imageTag": 50,
+		"emails": "ascpuw@uw.edu",
+		"category": "MEDICAL / DENTAL / NURSING / PHARMACY",
+		"facebook": "https://www.facebook.com/ASCPUW"
+	},
+	{
+		"name": "American Society of Health-System Pharmacists",
+		"desc": "The American Society of Health-System Pharmacists (ASHP) is one of the world�s largest pharmacy organizations, and is at the forefront of the expanding role of a clinical pharmacist in the health-system pharmacy practice setting. \n\nIn the 2016-2017 academic year, our chapter is focusing on the expansion of our award-winning shadowing program. However, we continue to prioritize residency education and the development of clinical student pharmacists through tours of local residency programs, mock residency interviews, clinical skills competitions, and residency roundtable discussions with local residents and residency coordinators.",
+		"imageTag": 51,
+		"emails": "gilbko@uw.edu",
+		"category": "MEDICAL / DENTAL / NURSING / PHARMACY",
+		"facebook": "https://www.facebook.com/UWSSHP?fref=ts"
+	},
+	{
+		"name": "American Society of Landscape Architects at University of Washington",
+		"desc": "It shall be the purpose of this organization to synthesize the needs and \t\t\t\tdesires of our student body within the larger academic and professional \t\t\t\tspheres.� ASLA at UW speaks on behalf of the student body with faculty, \t\t\t\taligns mentors from the professional world with like-minded students, and \t\t\torganizes social and community service activities to better leverage our \t\t\t\trole as designers for social and environmental good. Our focuses include: \t\t\t\theightened cohesion and wellbeing within the department, increased \t\t\t\toutreach and community service, and in general bringing us all around the \t\t\t\ttable to more closely examine how we as students can navigate our \t\t\t\tacademic and professional futures.",
+		"imageTag": 52,
+		"emails": "NA",
+		"category": "ACADEMIC",
+		"facebook": "NA"
+	},
+	{
+		"name": "American Society of Mechanical Engineers - University of Washington Chapter",
+		"desc": "We shall create a more cohesive and enjoyable atmosphere for the students in the Mechanical Engineering department through: Volunteer opportunities to bring their knowledge to young minds, discussions with grad students about lab study opportunities, and recruitment opportunities with industry related companies.",
+		"imageTag": 53,
+		"emails": "asmeuw@uw.edu",
+		"category": "ENGINEERING",
+		"facebook": "NA"
+	},
+	{
+		"name": "American Student Dental Association, UW Chapter",
+		"desc": "We foster a culture of unity, support, and excellence to enhance dental student life at the University of Washington School of Dentistry.",
+		"imageTag": 54,
+		"emails": "asda@uw.edu",
+		"category": "MEDICAL / DENTAL / NURSING / PHARMACY",
+		"facebook": "https://www.facebook.com/UWASDA/"
+	},
+	{
+		"name": "American Water Resources Association",
+		"desc": "To share ideas within the water resources community at the University of Washington and to provide students with opportunities to interact with water resources professionals.",
+		"imageTag": 55,
+		"emails": "awra@uw.edu",
+		"category": "ENVIRONMENTAL",
+		"facebook": "https://www.facebook.com/American-Water-Resources-Association-111474035541444/"
+	},
+	{
+		"name": "American Water Works Association-Water Environment Federation Student Chapter",
+		"desc": "The purpose of the Chapter has three aspects. First, the Chapter will support and promote students� development in both the professional and academic realms. Second, the Chapter will foster connections between students and  the professional engineering and science community.  Lastly, the Chapter will promote fun and interesting activities to keep students involved and interested.",
+		"imageTag": 56,
+		"emails": "awwawef@uw.edu",
+		"category": "ENGINEERING",
+		"facebook": "https://www.facebook.com/University-of-Washington-AWWA-WEF-177793188938647/"
+	},
+	{
+		"name": "Amnesty International UW",
+		"desc": "Amnesty International works to uphold the global integrity of human rights through grassroots organization. Using The Universal Declaration of Human Rights as a guide, AIUW seeks to raise awareness of limit human rights abuses and infringements both domestic and abroad by means of political pressure and education of our peers.",
+		"imageTag": 57,
+		"emails": "amnesty@uw.edu",
+		"category": "POLITICAL / SOCIAL ACTION",
+		"facebook": "https://www.facebook.com/AmnestyInternationalUW/?fref=ts"
+	},
+	{
+		"name": "Ancient Chinese Association",
+		"desc": "The purpose of Ancient Chinese Association is to recognize and promote ancient Chinese traditions and culture. This association will not be limited to only Chinese people, but to all gender and races in University of Washington. There will also be educational purposes applied such as ancient Chinese history, fashion, etc.",
+		"imageTag": 58,
+		"emails": "acauw@uw.edu",
+		"category": "CULTURAL / INTERNATIONAL",
+		"facebook": "https://www.facebook.com/acauw/"
+	},
+	{
+		"name": "Anime Discovery Project",
+		"desc": "To educate about Japanese culture through visual media.",
+		"imageTag": 59,
+		"emails": "adp@uw.edu",
+		"category": "SPECIAL INTEREST",
+		"facebook": "https://www.facebook.com/AnimeDP/"
+	},
+	{
+		"name": "Anti Cinema Cinema Club",
+		"desc": "For appreciating underappreciated movies, and for fun and bonding",
+		"imageTag": 60,
+		"emails": "NA",
+		"category": "RECREATION",
+		"facebook": "NA"
+	},
+	{
+		"name": "Arab Student Association at The University of Washington",
+		"desc": "The Arab Student Association at the University of Washington aims to unite and serve the Arab community on campus. The ASA shall act as a bridge between the Arab community and non-Arab community by educating the general populace about Arab culture and heritage. We are committed to acceptance and peace as we aim to serve both Arabs and non-Arabs through our events and mission to enrich our campus with diversity.",
+		"imageTag": 61,
+		"emails": "NA",
+		"category": "CULTURAL / INTERNATIONAL",
+		"facebook": "https://www.facebook.com/groups/155620818441902/"
+	},
+	{
+		"name": "ArLiSNAP",
+		"desc": "ArLiISNAP is a forum for exploring the creative arts, with a special focus on the intersections between art, librarianship, and information. ArLiSNAP is open to all members of the UW iSchool community.",
+		"imageTag": 62,
+		"emails": "arlisnap@uw.edu",
+		"category": "SPECIAL INTEREST",
+		"facebook": "https://www.facebook.com/groups/179256222259443/"
+	},
+	{
+		"name": "Armenian Student Association at the University of Washington",
+		"desc": "This RSO is to promote and educate Armenian culture. Bringing Armenian students and Armenians of all ages in the community to gather and others who want to contribute to the society It is a new way of teaching Armenian culture through youth!",
+		"imageTag": 63,
+		"emails": "armsocuw@uw.edu",
+		"category": "CULTURAL / INTERNATIONAL",
+		"facebook": "Armenian Society at UW"
+	},
+	{
+		"name": "Arnold Air Society",
+		"desc": "Arnold Air Society is a professional, honorary service organization advocating the support of aerospace power.",
+		"imageTag": 64,
+		"emails": "matheson@uw.edu",
+		"category": "SPECIAL INTEREST",
+		"facebook": "NA"
+	},
+	{
+		"name": "Artificial Intelligence and Morality Society",
+		"desc": "Through a series of discussions based on films, tv series, novels, we will start to pinpoint what it means to\n\npossess moral values and how we can apply that to AI�s. The aim of this club is to gain a deeper\n\nunderstanding of what it means to have a moral conscious and ambitiously develop a plan or idea to apply this\n\nto AI�s.",
+		"imageTag": 65,
+		"emails": "NA",
+		"category": "SPECIAL INTEREST",
+		"facebook": "NA"
+	},
+	{
+		"name": "Arts Diversity Council",
+		"desc": "The purpose of this organization is to create an encouraging, comfortable and uplifting space where students of color in the arts can express themselves and their concerns. It is also to network with other artists from different disciplines and to build community.",
+		"imageTag": 66,
+		"emails": "NA",
+		"category": "SPECIAL INTEREST",
+		"facebook": "NA"
+	},
+	{
+		"name": "Ascend UW",
+		"desc": "The purpose of Ascend UW is to cultivate students of Pan-Asian descent into potential business leaders in the greater Seattle area. Our focus is to help members network with professionals, develop their soft skills and guide them towards success as future business leaders.",
+		"imageTag": 67,
+		"emails": "uwascend@uw.edu",
+		"category": "BUSINESS",
+		"facebook": "https://www.facebook.com/AscendAtUW/"
+	},
+	{
+		"name": "Asian American Christian Fellowship",
+		"desc": "To reach into the collegiate community, primarily to those who are Asian Pacific Americans, with the life changing message of Jesus Christ",
+		"imageTag": 68,
+		"emails": "uwaacf@gmail.com",
+		"category": "RELIGIOUS / SPIRITUAL",
+		"facebook": "NA"
+	},
+	{
+		"name": "Asian American Intervarsity Christian Fellowship",
+		"desc": "Outreaching to the greater Asian American community on campus with the intent of engaging students in the Gospel of Jesus Christ by emphasizing the development of Asian American ethnic identity and creating community.",
+		"imageTag": 69,
+		"emails": "aaiv@uw.edu",
+		"category": "RELIGIOUS / SPIRITUAL",
+		"facebook": "https://www.facebook.com/aaivuw/"
+	},
+	{
+		"name": "Asian Americans in the Media",
+		"desc": "Asian Americans in the Media is a platform for young Asian American artists, that love to create and express. We aim to create a space for Asian Americans to collaborate and grow together, in their artistic abilities and endeavors. Whether its taking a workshop together, hosting speakers and panels, or going on shoots together, we want to build a community that empowers Asian American artists and their talents. We also want to spark change, through spreading awareness and educating our peers about the issues that Asian Americans experience in the world of media and entertainment.",
+		"imageTag": 70,
+		"emails": "aamedia@uw.edu",
+		"category": "SPECIAL INTEREST",
+		"facebook": "https://www.facebook.com/Asian-American-in-Media-190363925022771/"
+	},
+	{
+		"name": "Asian Business Student Organization",
+		"desc": "ABSA strives to help students utilize their cultural backgrounds as strengths in the business world while providing them with the resources and connections necessary to succeed.",
+		"imageTag": 71,
+		"emails": "absa@uw.edu",
+		"category": "BUSINESS",
+		"facebook": "https://www.facebook.com/uwabsa"
+	},
+	{
+		"name": "Asian Pacific American Medical Student Association",
+		"desc": "Our mission is to represent Asian Pacific Islander American concerns and aspirations in the health care community at the University of Washington.",
+		"imageTag": 72,
+		"emails": "apamsa@uw.edu",
+		"category": "MEDICAL / DENTAL / NURSING / PHARMACY",
+		"facebook": "https://www.facebook.com/nationalapamsa"
+	},
+	{
+		"name": "Asian/Pacific American Law Students Association",
+		"desc": "The Asian/Pacific American Law Students Association (APALSA) was formed to organize, support, and promote the concerns within Asian and Pacific Islander minorities in the legal profession and to increase ethnic diversity and awareness in the law school and legal profession.",
+		"imageTag": 73,
+		"emails": "apalsa@uw.edu",
+		"category": "LAW",
+		"facebook": "NA"
+	},
+	{
+		"name": "Asians and Pacific Islanders Cares about Mental Health",
+		"desc": "1.\tTo raise awareness while reducing stigma around mental health in API communities via workshops, events etc.\n\n2.\tTransforming narratives of trauma and pain into ones of strength and resilience.\n\n3.\tTo connect the UW API community with the greater-Seattle API community to foster community education, engagement, and ultimately, empowerment.",
+		"imageTag": 74,
+		"emails": "apicares@uw.edu",
+		"category": "SPECIAL INTEREST",
+		"facebook": "NA"
+	},
+	{
+		"name": "Association for Computing Machinery",
+		"desc": "The purpose of UW ACM is to connect CSE students with peers, faculty, staff, and industry, and provide students with the resources and skills they need to succeed. UW ACM acts as a gateway for students to make a difference in the department.",
+		"imageTag": 75,
+		"emails": "acm-officers@cs.washington.edu",
+		"category": "ENGINEERING",
+		"facebook": "https://www.facebook.com/uwacm/"
+	},
+	{
+		"name": "Association for Computing Machinery Women",
+		"desc": "ACM-W supports, celebrates, and advocates internationally for the full engagement of women in all aspects of the computing field, providing a wide range of programs and services to ACM members and working in the larger community to advance the contributions of technical women.",
+		"imageTag": 76,
+		"emails": "acmwuw@uw.edu",
+		"category": "ENGINEERING",
+		"facebook": "NA"
+	},
+	{
+		"name": "Association for Women in Communications",
+		"desc": "The purpose of AWC is to connect students on our campus who are interested in any field associated with a Communications or Journalism degree with professionals in the workforce through monthly meetings, workshops, work site tours. We work closely with the AWC Professional Chapter.",
+		"imageTag": 77,
+		"emails": "uwawc@uw.edu",
+		"category": "ACADEMIC",
+		"facebook": "https://www.facebook.com/AWCatUW"
+	},
+	{
+		"name": "Association for Women in Mathematics Student Chapter at UW",
+		"desc": "The Chapter is organized and will be operated for educational and scientific purposes to promote the following: \n\nan increased knowledge of and greater interest in the mathematical sciences, including pure and applied mathematics, statistics, and their applications; \n\na greater understanding of the contributions of women in the mathematical sciences; \n\nand mentoring and encouraging women and girls as they prepare for careers in the mathematical sciences.",
+		"imageTag": 78,
+		"emails": "awmsc@uw.edu",
+		"category": "SCIENCES",
+		"facebook": "NA"
+	},
+	{
+		"name": "Association of Black Business Students",
+		"desc": "To recruit, assist, organize, and in any other way promote the interest and success of business students and for those interested in business related careers.",
+		"imageTag": 79,
+		"emails": "uwabbs@uw.edu",
+		"category": "BUSINESS",
+		"facebook": "https://www.facebook.com/uwabbs"
+	},
+	{
+		"name": "Association of Information Management Students",
+		"desc": "To foster a diverse, positive, open, and collaborative environment within the MSIM community. As well as to provide professional development to build future leaders in industry.",
+		"imageTag": 80,
+		"emails": "ainfoms@uw.edu",
+		"category": "GRADUATE / PROFESSIONAL",
+		"facebook": "https://www.facebook.com/aimsuw"
+	},
+	{
+		"name": "Association of Latino Professionals for America",
+		"desc": "ALPFA is a bridge between the two resulting in thousands of college students in paid professional internships and careers.  ALPFA develops the next generation of professionals via experiential leadership development and mentoring.",
+		"imageTag": 81,
+		"emails": "uwalpfa@uw.edu",
+		"category": "BUSINESS",
+		"facebook": "ALPFA UW Student Chapter"
+	},
+	{
+		"name": "Association of Library and Information Science Students",
+		"desc": "ALISS is the official student government organization for Library & Information Science students at the University of Washington.",
+		"imageTag": 82,
+		"emails": "aliss@uw.edu",
+		"category": "GRADUATE / PROFESSIONAL",
+		"facebook": "https://www.facebook.com/groups/ALISSUW/"
+	},
+	{
+		"name": "Association of Minority Professionals",
+		"desc": "To create a space for students who come from diverse and multicultural backgrounds and provide them with resources and opportunities to advance their professional skills. The goal is to create a collaborative and welcoming environment for students to share their experiences regarding their professional and academic backgrounds, and to inform students of their resources and opportunities as a minority student.",
+		"imageTag": 83,
+		"emails": "NA",
+		"category": "SPECIAL INTEREST",
+		"facebook": "NA"
+	},
+	{
+		"name": "ASUW Arts and Entertainment",
+		"desc": "The mission of ASUW Arts and Entertainment is to improve the quality of campus life through programming that focuses on educating and celebrating the arts. We provide exclusive entertainment opportunities to UW students that engages them with the greater art community. Through our programming, we expose students to what the UW has to offer outside of the classroom and build campus community.\n\nOver the years we�ve done some concerts with the following: Macklemore & Ryan Lewis, Kendrick Lamar, Arcade Fire, LCD Soundsystem, Mos Def, The Decemberists, Sky Ferreira, G-Eazy, Laura Jane Grace, STRFKR, Craft Spells, Four Color Zack, Shy Girls, Unknown Mortal Orchestra, Vic Mensa, The-Dream, Wavves, Common, Mike Posner, Clipse, The Mountain Goats, Built To Spill, Ra Ra Riot, Nirvana, The Rapture (DJs), The Physics, La Luz, Sam Lachow, Allen Stone, Grynch, Wizdom, Brothers From Another, Manatee Commune, Mister Lies, Dude York, Chastity Belt, Nice&AO, The Bar, Youryoungbody, DJAO, Mayer Hawthorne, James Pants and much more�\n\nOver the years we�ve done some comedy shows with the following: Aziz Ansari, BJ Novak, Carlos Mencia, Bill Maher, Tig Notaro, Andy Dick, Louis CK, Daniel Tosh, Kyle Kinane, Jon Dore, Hannibal Buress, Pete Holmes, Axis of Awesome, Garfunkel & Oates, Chelsea Peretti and much more�",
+		"imageTag": 84,
+		"emails": "asuwaedr@uw.edu",
+		"category": "ASSOCIATED STUDENTS UNIVERSITY OF WASHINGTON (ASUW)",
+		"facebook": "NA"
+	},
+	{
+		"name": "ASUW Bike Shop",
+		"desc": "We are a full service shop and provide many, many more services and products (helmet, light/reflective gear, fenders, etc.) than the ones listed above; stop by or give us a call to find out more! We are happy to special order parts or extend recommendations for further services we may not provide. Services are handled on a first come, first serve basis; no appointments necessary.",
+		"imageTag": 85,
+		"emails": "asuwbike@uw.edu",
+		"category": "ASSOCIATED STUDENTS UNIVERSITY OF WASHINGTON (ASUW)",
+		"facebook": "NA"
+	},
+	{
+		"name": "ASUW Board of Directors",
+		"desc": "The ASUW Board of Directors is the final overseeing body of the Associated Students of the University of Washington. There are 13 seats on the Board of Directors. Minutes from meetings are posted online along with all bills that we pass, you can find the link below. 8 of the 12 seats are elected by the students at the end of each academic year. There are three hired seats on the Board of Directors. These seats are hired rather then elected because they are non-political positions. A representative from the Graduate Professional Student Senate sits on the Board with a vote and represents the issues of graduate students on campus. The Student Senate Vice Chair sits on the board without a vote. This position addresses the issues of from Student Senate to the Board of Directors.",
+		"imageTag": 86,
+		"emails": "asuwbd@uw.edu",
+		"category": "ASSOCIATED STUDENTS UNIVERSITY OF WASHINGTON (ASUW)",
+		"facebook": "NA"
+	},
+	{
+		"name": "ASUW Elections Administration Committee",
+		"desc": "The Elections Administration Committee is dedicated to conducting a fair and ethical election process for the Associated Students of the University of Washington. Students who serve on the EAC help with the many functions of Elections such as advertising, conducting election forums, setting up and running the information booths, and filing violations.",
+		"imageTag": 87,
+		"emails": "asuwvote@uw.edu",
+		"category": "ASSOCIATED STUDENTS UNIVERSITY OF WASHINGTON (ASUW)",
+		"facebook": "NA"
+	},
+	{
+		"name": "ASUW Office of Communications",
+		"desc": "Need a poster, flyer, shirt, logo, button or T-Shirt designed? Then you�re in the right place! If you have any questions about the information we�re asking for please get in touch.\n\nSocial Media Promotion | If you need to have something promoted onto the main ASUW Facebook or Twitter please fill out this information.\n\nMulti-Media Request | Need photos taken at an event or a video shot? Fill out this form and we will get you in touch with Benny and see if he is available for the event.\n\nNew Calendar Event | Submit a request to have an event added to the main ASUW Calendar which will appear on the ASUW website. Please only submit ASUW events.\n\nAll Campus E-Mail Announcement  | The ASUW President sends out an e-mail to undergraduates at the University of Washington once every two weeks � if you have an announcement about and event or program you�d like to advertise add it to this sheet and we will ensure it goes on the next e-mail.\n\nWebsite Help | Let us know if you need a webmaster�s assistance in building, updating, or designing your entity webpage!\n\n Tech Help | Izzy is here to fix computer, printers, and other technology that you need help with! Let us know what�s going wrong and he will schedule a time to meet with you!",
+		"imageTag": 88,
+		"emails": "asuwbdcm@uw.edu",
+		"category": "ASSOCIATED STUDENTS UNIVERSITY OF WASHINGTON (ASUW)",
+		"facebook": "NA"
+	},
+	{
+		"name": "ASUW Office of Government Relations",
+		"desc": "External Affairs\n\nThe offices of Federal Relations, State Relations and Regional Relations make up the Governmental Relations unit of the Office of External Affairs at the University of Washington. The Office of External Affairs is headed by Vice President Randy Hodgins and brings together units responsible for influencing public policy and opinion and strengthening the university�s reputation and the perceptions people hold of it.\n\nFederal Relations\n\nChristy Gullion directs the Office of Federal Relations and is the university�s chief representative in the nation�s capitol to both the executive and legislative branches. She is also a key part of the administrative team, advising the university president on legislative strategy and communicating to the university community about higher education issues in Washington, D.C.\n\nState Relations\n\nGenesee Adkins directs the Office of State Relations. She is the university�s chief representative in Olympia to both the executive and legislative branches. She is also a key member of the administrative team, advising the university president on legislative strategy and communicating to the university community about higher education issues in Olympia.\n\nRegional & Community Relations\n\nSally Clark directs the Office of Regional Relations. Her office serves as a link between the university, surrounding neighborhoods, civic groups and local government. Its mission is to build relationships, share information and seek new opportunities that match the university�s academic capital with needs in the community.\n\nSpokane and Eastern Washington Relations\n\nCatherine Brazil directions Spokane and Eastern Washington Relations for the Office of External Affairs. She represents that university and coordinates government, business and community relations from the UW Spokane Center.",
+		"imageTag": 89,
+		"emails": "asuwogr@uw.edu",
+		"category": "ASSOCIATED STUDENTS UNIVERSITY OF WASHINGTON (ASUW)",
+		"facebook": "NA"
+	},
+	{
+		"name": "ASUW Office of Volunteer Opportunities",
+		"desc": "Welcome to the ASUW Office of Volunteer Opportunities! This is the best spot to launch yourself into student government here at the University of Washington. Volunteers are the backbone of our student government. None of the advocacy, rallies, concerts, or other events would be possible without volunteers. Whether you are brand new to ASUW or are just looking to gain some work experience in an area of interest, the Office of Volunteer Opportunities (OVO) is here to help you find your best fit within ASUW.\n\nOn this website, you can find current open volunteer opportunities and positions, and you can find the resources you need to start your ASUW volunteering experience.",
+		"imageTag": 90,
+		"emails": "asuwovop@uw.edu",
+		"category": "ASSOCIATED STUDENTS UNIVERSITY OF WASHINGTON (ASUW)",
+		"facebook": "NA"
+	},
+	{
+		"name": "ASUW Student Food Cooperative",
+		"desc": "We are first and foremost a group of students concerned about the environmental, social, economic, and health impacts of our agro-food system. ASUW SFC members are a diverse group of students from a wide variety of disciplines and backgrounds, who�ve come together because we share a passion for improving our own health and the health of our planet through food. We value student autonomy and ensure that all decisions related to running the cooperative are made by students.",
+		"imageTag": 91,
+		"emails": "asuwsfc@uw.edu",
+		"category": "ASSOCIATED STUDENTS UNIVERSITY OF WASHINGTON (ASUW)",
+		"facebook": "NA"
+	},
+	{
+		"name": "ASUW Student Senate",
+		"desc": "Today�s Student Senate discusses current matters affecting students of the University, and it is empowered to formulate the official opinion of the ASUW. Senate resolutions help to guide the actions of the Association and often other decision-makers at the University and elsewhere. All students are welcome to submit legislation for the Senate to consider, though only senators may ultimately vote. That said, Senate positions are open to all ASUW members. We aim to bring in voices from the broadest possible cross-section of the UW student community, and in doing so, we hope to foster healthy dialogue and arrive at what is, truly, student voice at the University of Washington.",
+		"imageTag": 92,
+		"emails": "asuwssch@uw.edu",
+		"category": "ASSOCIATED STUDENTS UNIVERSITY OF WASHINGTON (ASUW)",
+		"facebook": "NA"
+	},
+	{
+		"name": "AU: Speculative Fiction Magazine at the University of Washington",
+		"desc": "We are a quarterly literary magazine that publishes speculative fiction (fantasy, sci fi, and other genre fiction).",
+		"imageTag": 93,
+		"emails": "aumag@uw.edu",
+		"category": "SPECIAL INTEREST",
+		"facebook": "https://www.facebook.com/StrayingFromReality/?ref=bookmarks"
+	},
+	{
+		"name": "Audiophile Club at University of Washington",
+		"desc": "It shall be the purpose of this organization to improve people�s knowledge of audio technologies, music creation and to promote diversity in music appreciation.",
+		"imageTag": 94,
+		"emails": "audio@uw.edu",
+		"category": "RECREATION",
+		"facebook": "https://www.facebook.com/groups/auwdiophiles/?ref=bookmarks"
+	},
+	{
+		"name": "Autism Speaks",
+		"desc": "Fundraisers and events to raise money and awareness for Autism Speaks. Volunteer with children on the spectrum at places in our community.",
+		"imageTag": 95,
+		"emails": "AutismSpeaksUW@uw.edu",
+		"category": "SPECIAL INTEREST",
+		"facebook": "https://www.facebook.com/autismspeaks/"
+	},
+	{
+		"name": "Autonomous RC Car club",
+		"desc": "The ARC club aims to organize a learning environment for members who wish to learn specialized hardware such as Raspberry Pi and learn more about the science and engineering behind self-driving cars through the construction of their own self-driving RC (Radio controlled) car.  While ARC is an organization with the main goal of designing, programming, and manufacturing self-driving RC cars, it also aims to help students pursue their interest in specific topics such as Computer Vision, Programming, CAD and 3d printing, etc. The ARC club also wishes to host competitions and events pertaining to autopilot RC vehicle, functioning as a leading student-led organization in the greater Seattle area.",
+		"imageTag": 96,
+		"emails": "NA",
+		"category": "ENGINEERING",
+		"facebook": "NA"
+	},
+	{
+		"name": "Awaaz at UW",
+		"desc": "Awaaz is a South Asian Fusion A Cappella group at UW that mixes both South Asian and Western music through its creative vocal a cappella arrangements.",
+		"imageTag": 97,
+		"emails": "awaaz09@uw.edu",
+		"category": "PERFORMING",
+		"facebook": "facebook.com/uwawaaz"
+	},
+	{
+		"name": "Azerbaijani American Cultural Association",
+		"desc": "The Azerbaijani American Cultural Association at UW is a cultural student organization that aims to promote and share Turkic languages and culture of Azerbaijanis with students, people of Seattle, and members of the community by hosting movie events, conversation groups, social gatherings, panels, concerts, and conferences.",
+		"imageTag": 98,
+		"emails": "NA",
+		"category": "CULTURAL / INTERNATIONAL",
+		"facebook": "NA"
+	},
+	{
+		"name": "<U+53CB><U+996D> Foodable",
+		"desc": "Creating meaningful connection among Chinese students by preparing and sharing delectable homemade cuisine together. It is our goal to foster a hospitable culture which leads to better understanding of us and others.",
+		"imageTag": 99,
+		"emails": "NA",
+		"category": "CULTURAL / INTERNATIONAL",
+		"facebook": "NA"
+	},
+	{
+		"name": "B Movie Appreciation Club",
+		"desc": "There are many B movies that deserve more attention.",
+		"imageTag": 100,
+		"emails": "bmacuw@uw.edu",
+		"category": "RECREATION",
+		"facebook": "NA"
+	},
+	{
+		"name": "Baha'i Club at UW",
+		"desc": "The Baha'i club at UW aims to promote the principles and teachings of the Baha'i Faith through its campus activities. Our activities center around the oneness of humanity, the harmony of science and religion, the basic oneness of all religions, the equality of men and women, the elimination of extremes of wealth and poverty, and other core principles of the Baha'i Faith. \n\nMembership is open to all. All who have an interest in the Baha'i Faith, irrespective of religious affiliation, are welcome to attend meetings and events.",
+		"imageTag": 101,
+		"emails": "bahai@uw.edu",
+		"category": "RELIGIOUS / SPIRITUAL",
+		"facebook": "https://www.facebook.com/BahaiUW/"
+	},
+	{
+		"name": "Bangaliyana Pacific Northwest Chapter",
+		"desc": "The purpose of this organization is to organize social and cultural events to spread the rich cultural heritage of Bengal to a larger community in and around the University of Washington. Here Bengal majorly represents the state �West Bengal� in eastern India and places around it. People of this region are commonly identified as �Bengali� or �Bangali� and share similar spoken language and other socio-cultural customs. According to Wikipedia, with about 250 million speakers worldwide, Bengali is the seventh most spoken language in the world.",
+		"imageTag": 102,
+		"emails": "bpncuw@uw.edu",
+		"category": "CULTURAL / INTERNATIONAL",
+		"facebook": "NA"
+	},
+	{
+		"name": "Bass Angling Student Society @ University of Washington",
+		"desc": "To promote proper and effective bass fishing techniques to others.",
+		"imageTag": 103,
+		"emails": "NA",
+		"category": "RECREATION",
+		"facebook": "Bass Angling Student Society at University of Washington"
+	},
+	{
+		"name": "Be The Match On Campus - UW",
+		"desc": "Be The Match On Campus - UW will hereby be established as a volunteer service club for the University of Washington aimed to help promote awareness about the need of Bone Marrow Registration Drives on campus by working with Be The Match.",
+		"imageTag": 104,
+		"emails": "btmuw@uw.edu",
+		"category": "HEALTH SCIENCES",
+		"facebook": "NA"
+	},
+	{
+		"name": "Bengali Student Association",
+		"desc": "The UW Bengali Students Association (UW BSA) is a student group promoting unity, friendship, and awareness among Bengali and non-Bengali students here at the University of Washington.",
+		"imageTag": 105,
+		"emails": "bengali@uw.edu",
+		"category": "CULTURAL / INTERNATIONAL",
+		"facebook": "https://www.facebook.com/bsa.udub/"
+	},
+	{
+		"name": "Best Buddies",
+		"desc": "Best Buddies works to builds friendships between people with and without intellectual and developmental disabilities, offering social mentoring while improving the quality of life and level of inclusion.You can join as a peer buddy to create a one to one friendship, or as an associate member to help provide the opportunity for people with disabilities to be involved in their local campus and community life.\n\nto sign up online: \n\n1. Go to www.bestbuddiesonline.org\n\n2. In the top ribbon, rollover Membership Applications\n\nSelect College\n\n3. Read the first page, select New Member and click Continue\n\n4. In the blank box next to State, begin typing University of Washington (Seattle, Washington). When it appears, select it and fill out the application.\n\n5. After you submit your application, your application will need to be approved and you will get an e-mail with a username and password. This username and password will be used on the same weblink, www.bestbuddiesonline.org, to access the chapter portal.",
+		"imageTag": 106,
+		"emails": "bestbuds@uw.edu",
+		"category": "SPECIAL INTEREST",
+		"facebook": "NA"
+	},
+	{
+		"name": "Beta Alpha Psi",
+		"desc": "BETA ALPHA PSI is an honorary organization for Financial Information students and professionals. The primary objective of Beta Alpha Psi is to encourage and give recognition to scholastic and professional excellence in the business information field. This includes promoting the study and practice of accounting, finance and information systems; providing opportunities for self-development, service and association among members and practicing professionals, and encouraging a sense of ethical, social, and public responsibility.",
+		"imageTag": 107,
+		"emails": "uwbap@uw.edu",
+		"category": "BUSINESS",
+		"facebook": "NA"
+	},
+	{
+		"name": "Beta Beta Beta Biological Honor Society",
+		"desc": "Tribeta is an honorary society for biology students. Tribeta seeks to stimulate interest, scholarly attainment, and investigation into the biological sciences while fostering community within the Biology Department.",
+		"imageTag": 108,
+		"emails": "tribeta@uw.edu",
+		"category": "SCIENCES",
+		"facebook": "https://www.facebook.com/TriBetaUW/?fref=ts"
+	},
+	{
+		"name": "Beta Gamma Sigma",
+		"desc": "Beta Gamma Sigma is a business honor society dedicated to encouraging and honoring academic achievement in business. The organization is founded on the principles of honor, the pursuit of wisdom, earnestness, and service.",
+		"imageTag": 109,
+		"emails": "bgsuw@uw.edu",
+		"category": "HONORARY",
+		"facebook": "NA"
+	},
+	{
+		"name": "Beta Theta Pi",
+		"desc": "Beta Theta Pi is a fraternity dedicated to building Men of Principle through a focus on academic excellence, athletics, brotherhood, and social excellence.",
+		"imageTag": 110,
+		"emails": "betas@uw.edu",
+		"category": "FRATERNITIES & SORORITIES - IFC / PH",
+		"facebook": "NA"
+	},
+	{
+		"name": "Beyond the Bomb, UW Chapter",
+		"desc": "Today, there are more than 14,000 nuclear weapons on Earth. Together, we can bring that number to zero.\n\nBeyond the Bomb is a bold new step towards a world free of the nuclear system�s yoke. Through grassroots organizing all over the U.S., we will build a wave of opposition to nuclear weapons and the networks of money and power that prop them up. Our movement will move from the local level to the state level to the federal level, building a base of engaged activists and supporters to change the conversation around nuclear weapons in this country. We are embracing the intersectionality of our issue, basing our organization on the knowledge that it�s the most marginalized of communities that are affected most by the nuclear system. Basing our organizing and actions around the voices of those communities and lifting up their stories, we will reveal the true fruits of the corrupt nuclear status quo.",
+		"imageTag": 111,
+		"emails": "gzuw@uw.edu",
+		"category": "POLITICAL / SOCIAL ACTION",
+		"facebook": "https://www.facebook.com/BeyondTheBombUW/"
+	},
+	{
+		"name": "Bioengineers Without Borders",
+		"desc": "To develop low-cost, sustainable medical technologies while providing students with engineering design experience and professional development.",
+		"imageTag": 112,
+		"emails": "bwbuw@uw.edu",
+		"category": "ENGINEERING",
+		"facebook": "https://www.facebook.com/groups/517536301591745/"
+	},
+	{
+		"name": "BioExplore",
+		"desc": "BioExplore is an inclusive community for students interested in learning about and sharing their passions for research in bioengineering-related fields. Our events include student and faculty presentations, panel discussions, and lab tours exploring the breadth of opportunities available in BioE. Our club is open to all undergraduate students at UW with an interest in biotechnology research and advancement.",
+		"imageTag": 113,
+		"emails": "bioexp@uw.edu",
+		"category": "ENGINEERING",
+		"facebook": "NA"
+	},
+	{
+		"name": "Biology Students for Equity",
+		"desc": "It shall be the purpose of this organization to create a space for students of all identities in the biology department to promote equity and inclusion within the department.",
+		"imageTag": 114,
+		"emails": "biologystudentsforequity@uw.edu",
+		"category": "ACADEMIC",
+		"facebook": "NA"
+	},
+	{
+		"name": "Biomedical Engineering Society at the University of Washington Student Chapter",
+		"desc": "To aid in the personal and professional growth of bioengineering students.",
+		"imageTag": 115,
+		"emails": "bmesuw@uw.edu",
+		"category": "ENGINEERING",
+		"facebook": "https://www.facebook.com/UWBMES"
+	},
+	{
+		"name": "Bird Club at UW",
+		"desc": "Our bird watching club will explore the native birds of the greater Seattle area through field excursions and discussion. Open to all levels of birding enthusiasts! (formerly known as the BBBSC)",
+		"imageTag": 116,
+		"emails": "birdclub@uw.edu",
+		"category": "SCIENCES",
+		"facebook": "https://www.facebook.com/groups/uwbirdclub/"
+	},
+	{
+		"name": "Black Box Expressions",
+		"desc": "The purpose of Black Box Expressions is to promote avant-garde theatre within the University of Washington and the Drama Community. This club will allow students to participate in style workshops, group projects and theater appreciation.",
+		"imageTag": 117,
+		"emails": "sitesub@uw.edu",
+		"category": "PERFORMING",
+		"facebook": "NA"
+	},
+	{
+		"name": "Black Law Students Association at UW",
+		"desc": "Our purpose is to aid in recruiting, mentoring and supporting current and prospective law students who are of African descent or who support the progress of students of color.",
+		"imageTag": 118,
+		"emails": "blsa@uw.edu",
+		"category": "CULTURAL / INTERNATIONAL",
+		"facebook": "https://www.facebook.com/groups/uwblsa/"
+	},
+	{
+		"name": "Black Student Commission",
+		"desc": "The Black Student Commission is the liason between Black /African Heritage student organizations and the Associated Students of University of Washington.\n\nConstituents: RETRO, Sisterhood, Black Student Union, African Student Association, Somali Student Association, NPHC, ABBS, NSBE, Impact/ Sos, Graduate black Associations & RSO's\n\nMission: \n\n-OVERSEE THE COORDINATION, PLANNING, AND IMPLEMENTATION OF ALL PROGRAMS AND ACTIVITIES OF THE COMMISSION, INCLUDING SPECIAL EVENTS, WORKSHOPS, LECTURES, DISCUSSION GROUPS, ETC.\n\n-OVERSEE THE EXPENDITURES OF THE ANNUAL BUDGET AND KEEP FINANCIAL RECORDS UP TO DATE\n\n-ACT AS REPRESENTATIVE AND ADVOCATE THE ISSUES AND CONCERNS OF BLACK STUDENTS ON THE CAMPUS AND IN THE LOCAL AD GREATER WASHINGTON COMMUNITY",
+		"imageTag": 119,
+		"emails": "asuwbsc@uw.edu",
+		"category": "ASSOCIATED STUDENTS UNIVERSITY OF WASHINGTON (ASUW)",
+		"facebook": "NA"
+	},
+	{
+		"name": "Black Student Union",
+		"desc": "A cohesive union between black students faculty and other organizations and the UW community enhance cultural and political awareness social events and support community.",
+		"imageTag": 120,
+		"emails": "bsu@uw.edu",
+		"category": "POLITICAL / SOCIAL ACTION",
+		"facebook": "NA"
+	},
+	{
+		"name": "Blockchain and Cryptocurrency Club UW",
+		"desc": "The mission of the Blockchain and Cryptocurrency Club is to promote Cryptocurrency at UW by educating members about blockchain technology; providing members with the knowledge base and skill set to gain a competitive edge on early cryptocurrency investing; encouraging collaboration and innovation using cryptocurrency across the UW community; exploring new applications of blockchain technology to other forms of digital transactions, as well as examining various theories of blockchain adoption in mainstream society; and enabling members to share their knowledge with their network.",
+		"imageTag": 121,
+		"emails": "bccuw@uw.edu",
+		"category": "SPECIAL INTEREST",
+		"facebook": "In progress"
+	},
+	{
+		"name": "Blockchain Society at the University of Washington",
+		"desc": "Dedicated to exploring the latest blockchain developments and novel cryptocurrency applications. Collaborate with your peers to learn about investing, trading, and mining cryptocurrencies.",
+		"imageTag": 122,
+		"emails": "NA",
+		"category": "ACADEMIC",
+		"facebook": "https://www.facebook.com/groups/1448237218578844/"
+	},
+	{
+		"name": "Blue Dragon Honor Guard",
+		"desc": "The purpose of this organization is to positively represent the United States Air Force, US Air Force Detachment 910, and the University of Washington by performing color guards at local sports games, graduations and other ceremonies.  The Blue Dragon Honor Guard also trains an armed drill team to participate in competitions to further represent Detachment 910 and the University of Washington.",
+		"imageTag": 123,
+		"emails": "bdhg910@uw.edu",
+		"category": "SPECIAL INTEREST",
+		"facebook": "NA"
+	},
+	{
+		"name": "Blue Sky Church at UW",
+		"desc": "The purpose of our group is to teach university students how to live in pursuit of Jesus and apply the Bible to their daily lives. We are affiliated with Blue Sky Church, a non-denominational, Bible believing, Christian church.",
+		"imageTag": 124,
+		"emails": "blueskyc@uw.edu",
+		"category": "RELIGIOUS / SPIRITUAL",
+		"facebook": "NA"
+	},
+	{
+		"name": "Board Games at UW",
+		"desc": "Our purpose is to spread the board gaming culture at the University of Washington and to provide social fun through a variety of board and card games.",
+		"imageTag": 125,
+		"emails": "bgclub@uw.edu",
+		"category": "GAMING / ESPORTS",
+		"facebook": "https://www.facebook.com/groups/1599889886913742/"
+	},
+	{
+		"name": "Bodhi Youth Association",
+		"desc": "The purpose of our organization is to help more young adults to have a better understanding of Buddhism. Our goal is to gain inner peace, realize our best selves, treat others with compassion and understanding, discover our true nature and simplify our lives, which we can only achieve from within.",
+		"imageTag": 126,
+		"emails": "linzhu@uw.edu",
+		"category": "RELIGIOUS / SPIRITUAL",
+		"facebook": "NA"
+	},
+	{
+		"name": "Bollywood Kahaani",
+		"desc": "The purpose of Bollywood Kahaani is to share a modernized style of the Hindi film culture with the university community, through dancing and acting.",
+		"imageTag": 127,
+		"emails": "bkahaani@uw.edu",
+		"category": "PERFORMING",
+		"facebook": "NA"
+	},
+	{
+		"name": "Bookclub at UW",
+		"desc": "It shall be the purpose of this organization to promote reading in University of Washington students, to participate in group discussions using critical thinking, and to create a safe space for readers that strive to enhance their empathy skills through the joys of reading.",
+		"imageTag": 128,
+		"emails": "bkclub@uw.edu",
+		"category": "SPECIAL INTEREST",
+		"facebook": "@bkclubatuw"
+	},
+	{
+		"name": "Boundless Bachelor at UW",
+		"desc": "You have all heard of �The Bachelor�, but have you heard of The UW Bachelor? The show is a designed series that revolves around a single boundless bachelor who starts with a pool of 12 romantic interests from whom the bachelor is expected to select his future partner to share his husky experience with. During the course of the season, the bachelor will eliminate candidates through the presentation of a purple and gold rose. The participants will travel to romantic and exotic locations for their adventures such as Sylvan Grove, Odegaard Library, The Quad, and Drumheller Fountain. Get ready for a quarter filled with drama, midterms, romance, and a whole bunch of boundless.",
+		"imageTag": 129,
+		"emails": "bbachlr@uw.edu",
+		"category": "SPECIAL INTEREST",
+		"facebook": "https://www.facebook.com/uwbachelor/"
+	},
+	{
+		"name": "Braceros",
+		"desc": "It shall be the purpose of Braceros to establish an organization which provides unity among multicultural men. Braceros is committed to promote diversity through cultural awareness, academic excellence, community service and inclusivity.",
+		"imageTag": 130,
+		"emails": "braceros@uw.edu",
+		"category": "CULTURAL / INTERNATIONAL",
+		"facebook": "NA"
+	},
+	{
+		"name": "Brazilian Jiu-Jitsu Club at the University of Washington",
+		"desc": "To practice Brazilian Jiu-Jitsu with those who enjoy it. \n\nPlease contact us through our facebook page for best results!",
+		"imageTag": 131,
+		"emails": "uwbjj@uw.edu",
+		"category": "SPORTS",
+		"facebook": "https://www.facebook.com/bjjuw"
+	},
+	{
+		"name": "Bricolage, The Literary & Visual Arts Journal at the UW",
+		"desc": "To provide University of Washington students with the opportunity to gain experience in the publishing process through the creation of a quality undergraduate journal containing the work of writers and artists attending or affiliated with the UW.",
+		"imageTag": 132,
+		"emails": "brico@uw.edu",
+		"category": "SPECIAL INTEREST",
+		"facebook": "https://www.facebook.com/bricouw/"
+	},
+	{
+		"name": "Bridges International at the University of Washington",
+		"desc": "We provide services for the international students and visiting  scholars in the form of welcome meetings, social events, and conversation  partners.  We have discussion groups for those interested in learning about Christianity as well.",
+		"imageTag": 133,
+		"emails": "ilife@uw.edu",
+		"category": "RELIGIOUS / SPIRITUAL",
+		"facebook": "NA"
+	},
+	{
+		"name": "Bridges to Health",
+		"desc": "The Bridges to Health Patient Advocacy Center was created in 2008 with the intention of achieving three goals: 1) increasing public awareness and knowledge regarding basic health and preventative medicine via community engagement events  2) encouraging patients to become actively involved in their health decisions and providing patients with the health literacy and skills to do so and 3) expanding access to health services in medically underserved and high-risk populations. 4.) Teach about the environmental and social determinants that negatively impact community health. Students involved in Bridges to Health will achieve these goals through community outreach events and collaboration with other organizations both within the School of Pharmacy and interprofessionally.",
+		"imageTag": 134,
+		"emails": "NA",
+		"category": "MEDICAL / DENTAL / NURSING / PHARMACY",
+		"facebook": "NA"
+	},
+	{
+		"name": "Burma/Myanmar Student Association",
+		"desc": "B/MSA was created for the purpose of bringing together students of Burmese descent or those interested in the culture. We are also here to promote awareness of Burmese culture and to build a sense of community.",
+		"imageTag": 135,
+		"emails": "kyawt@uw.edu",
+		"category": "CULTURAL / INTERNATIONAL",
+		"facebook": "https://www.facebook.com/BMSAnetwork/?view_public_for=264169917036369"
+	},
+	{
+		"name": "Business Ethics Association",
+		"desc": "Our goal is to promote the importance of ethical business practices so that the leaders of tomorrow will achieve success through integrity.",
+		"imageTag": 136,
+		"emails": "uwbea@uw.edu",
+		"category": "BUSINESS",
+		"facebook": "https://www.facebook.com/FosterBEA"
+	},
+	{
+		"name": "Business Information Technology Society",
+		"desc": "The primary goal of BITS is to provide our members with a valuable edge for starting careers in the field of Management Information Systems, and exposing them to a community of like-minded individuals.",
+		"imageTag": 137,
+		"emails": "bits@uw.edu",
+		"category": "BUSINESS",
+		"facebook": "https://www.facebook.com/bitsuw"
+	},
+	{
+		"name": "Business Leaders in Healthcare",
+		"desc": "BLHC prepares future leaders in healthcare and life sciences by fostering a connection between business and medicine, promoting professional growth, and creating a platform for students from all academic majors to engage with the local community.",
+		"imageTag": 138,
+		"emails": "blhc@uw.edu",
+		"category": "BUSINESS",
+		"facebook": "NA"
+	},
+	{
+		"name": "Business Leaders of Faith",
+		"desc": "It shall be the purpose of this organization to promote unity in faith through a community of business students at the University of Washington, to support the exploration and education of business students connecting faith to work and professionalism, and to connect students to like-minded business professionals and leaders in the Greater Seattle Area and beyond.",
+		"imageTag": 139,
+		"emails": "NA",
+		"category": "BUSINESS",
+		"facebook": "NA"
+	},
+	{
+		"name": "Calligraphy and Hand Lettering Society",
+		"desc": "To spread an appreciation for calligraphy and the arts. Bringing people together and creating a safe learning environment.",
+		"imageTag": 140,
+		"emails": "NA",
+		"category": "SPECIAL INTEREST",
+		"facebook": "NA"
+	},
+	{
+		"name": "Camp Kesem, UW Seattle Chapter",
+		"desc": "Camp Kesem is a college student run summer camp for kids with a parent who has been diagnosed with cancer.",
+		"imageTag": 141,
+		"emails": "kesem@uw.edu",
+		"category": "SPECIAL INTEREST",
+		"facebook": "https://www.facebook.com/CampKesemUW?fref=ts"
+	},
+	{
+		"name": "Campus Animal Rights Educators",
+		"desc": "CARE strives to: \n\n> Raise awareness about the current and recent expansion of animal testing and animal cruelty at UW, as well as work toward ending the cruel and unnecessary use of live pigs in the paramedic training program despite available and effective simulator models. \n\n> Expand vegan options on campus and promote the benefits and positive impacts of a vegan lifestyle while acknowledging issues of access and privilege. \n\n> Create a community of likeminded individuals and a safe space for animal rights discourse regardless of one�s lifestyle, background, or identity.\n\nCARE aspires to support diverse movements and organizations fighting varying forms of systematic injustice. Please contact CARE at uwcarerso@gmail.com if you are interested in a collaboration, or even just a conversation.\n\nFind our responsible activism guidelines here: http://tinyurl.com/hp25axz",
+		"imageTag": 142,
+		"emails": "careuw@uw.edu",
+		"category": "POLITICAL / SOCIAL ACTION",
+		"facebook": "www.facebook.com/UWCARE"
+	},
+	{
+		"name": "Campus Sustainability Fund",
+		"desc": "The mission of the CSF is to create a sustainable campus and foster an environmentally conscious culture by funding student-lead projects from a portion of student fees to lessen the university�s environmental impact.",
+		"imageTag": 143,
+		"emails": "csfuw@uw.edu",
+		"category": "ENVIRONMENTAL",
+		"facebook": "https://www.facebook.com/UW-Campus-Sustainability-Fund-UWCSF-496191420643/"
+	},
+	{
+		"name": "CandleLight Foundation",
+		"desc": "The purpose of this organization is to provide free medical and dental care to the homeless in the downtown area of Seattle.",
+		"imageTag": 144,
+		"emails": "clfuw@uw.edu",
+		"category": "MEDICAL / DENTAL / NURSING / PHARMACY",
+		"facebook": "https://www.facebook.com/candlelightfoundation/"
+	},
+	{
+		"name": "Cantonese Christian Crusade",
+		"desc": "We aim to share the love of Jesus Christ through serving others, witnessing our faith, disciplining and encouraging believers, and praying for one another. We aim to create a hospitable environment for UW students, with an emphasis on Cantonese-speaking students.",
+		"imageTag": 145,
+		"emails": "cccuw@uw.edu",
+		"category": "RELIGIOUS / SPIRITUAL",
+		"facebook": "CCC@UW"
+	},
+	{
+		"name": "Capillaries",
+		"desc": "It shall be the purpose of the Capillaries Journal to provide undergraduate students with the opportunity to reflect on their experiences with medicine, healing, illness, and/or grief through prose, poetry, and artwork. Furthermore, this organization aims to support students and the community in their healthcare journeys and promote greater understanding between the sciences and the humanities.",
+		"imageTag": 146,
+		"emails": "cjuw@uw.edu",
+		"category": "SPECIAL INTEREST",
+		"facebook": "NA"
+	},
+	{
+		"name": "Capoeira Club UW",
+		"desc": "The mission of Capoeira Club UW is to bring the discipline, artistic expression, and fun of Capoeira Angola to the students of the University of Washington. Through physical training, companionship with other members, and philosophical development, members will learn to embody the values of Capoeira angola and respect its history.",
+		"imageTag": 147,
+		"emails": "NA",
+		"category": "SPORTS",
+		"facebook": "https://www.facebook.com/PalmaresUSA/"
+	},
+	{
+		"name": "Car Club",
+		"desc": "To unite University of Washington students who share the same passion and enthusiasm for cars and car culture; providing a common interest community on campus to enrich students' lives.",
+		"imageTag": 148,
+		"emails": "carclub@uw.edu",
+		"category": "SPECIAL INTEREST",
+		"facebook": "https://www.facebook.com/uwcarclub"
+	},
+	{
+		"name": "Card Club at the University of Washington",
+		"desc": "We exist solely to play card games.  Board games are not our style; instead we revel in the simplicity, camaraderie, and raw excitement that comes with every card game.",
+		"imageTag": 149,
+		"emails": "cardclub@uw.edu",
+		"category": "RECREATION",
+		"facebook": "NA"
+	},
+	{
+		"name": "CareerX UW",
+		"desc": "To encourage and inspire International students to develop career and business negotiation skills and emphasize on providing resources of searching jobs in the US, building connections, and be successful on their potential career. It prepares international students for career challenges with a focus on mentorship and business negotiation skills training.",
+		"imageTag": 150,
+		"emails": "careerx@uw.edu",
+		"category": "BUSINESS",
+		"facebook": "https://www.facebook.com/careerxatuw/"
+	},
+	{
+		"name": "Cascade Finance Club",
+		"desc": "The purpose of Cascade Investments is to create a casual environment to share and receive financial advice. The club has a dual focus on both traditional investments and cryptocurrency. Come plan for your financial future and make gains.",
+		"imageTag": 151,
+		"emails": "cfcuw@uw.edu",
+		"category": "BUSINESS",
+		"facebook": "NA"
+	},
+	{
+		"name": "Catholic Newman Center at the UW",
+		"desc": "To promote and support the Roman Catholic faith among the students, faculty, and staff at the University of Washington.",
+		"imageTag": 152,
+		"emails": "uwnewman@uw.edu",
+		"category": "RELIGIOUS / SPIRITUAL",
+		"facebook": "https://www.facebook.com/uwnewman?fref=ts"
+	},
+	{
+		"name": "Certificate of International Studies in Business",
+		"desc": "Foster�s nationally ranked and award-winning comprehensive international business program, the Certificate of International Studies in Business (CISB) is an intensive supplement to a student�s business administration degree. Our purpose is to give students the competitive edge they need to succeed in global business. We do this through a community of like-minded individuals, cross-cultural skills development, networking opportunities, and practical experience. Students specialize in a language and region, study or intern abroad, and take international classes alongside their respective business concentrations. Students leave CISB with a global mindset, cultural awareness, language proficiency, and the ability to lead in ambiguous situations.",
+		"imageTag": 153,
+		"emails": "CISBmail@uw.edu",
+		"category": "BUSINESS",
+		"facebook": "www.facebook.com/cisbuw"
+	},
+	{
+		"name": "Chabad Jewish Student Club",
+		"desc": "Chabad is a warm, non-judgmental, fun, exciting, and lively place, where every Jewish student (from any background) feels comfortable. It is a home for every Jew, \"Every Jewish Husky's Home\"!",
+		"imageTag": 154,
+		"emails": "chabad@uw.edu",
+		"category": "RELIGIOUS / SPIRITUAL",
+		"facebook": "https://www.facebook.com/ChabadUW/"
+	},
+	{
+		"name": "ChemE Brewing and Distilling Club",
+		"desc": "Our aim is to educate students of the Chemical Engineering department about home brewing and distilling.  We will provide hands on experience in brewing ciders and beers as well as distilling spirits.  We will reach out to breweries and distilleries and learn more about Chemical Engineers roles in large scale production of beer and spirits.",
+		"imageTag": 155,
+		"emails": "chmebrew@uw.edu",
+		"category": "ENGINEERING",
+		"facebook": "https://www.facebook.com/groups/1180963862026945/"
+	},
+	{
+		"name": "Chemistry Graduate Student Club at the University of Washington",
+		"desc": "The purpose of this organization is to provide opportunities for graduate student participation in group activities and to foster interaction between students and faculty, as well as to extend enthusiasm for science to the wider community that is served by the University of Washington.",
+		"imageTag": 156,
+		"emails": "chemgrad@uw.edu",
+		"category": "ACADEMIC",
+		"facebook": "NA"
+	},
+	{
+		"name": "Chi Omega",
+		"desc": "A sisterhood providing a lifelong network of friends, committed to personal integrity, excellence in academic pursuits, inter-generational participation, philanthropy, and community and social enrichment.",
+		"imageTag": 157,
+		"emails": "chiomega@uw.edu",
+		"category": "FRATERNITIES & SORORITIES - IFC / PH",
+		"facebook": "https://www.facebook.com/UWchiomega/"
+	},
+	{
+		"name": "Chi Psi Fraternity",
+		"desc": "A Fraternity of Gentlemen in the pursuit of advancement in our members' intellectual, moral, and social lives.",
+		"imageTag": 158,
+		"emails": "chipsi@uw.edu",
+		"category": "FRATERNITIES & SORORITIES - IFC / PH",
+		"facebook": "NA"
+	},
+	{
+		"name": "Chi Sigma Alpha National Sorority, Inc.",
+		"desc": "Our purpose is to increase Asian-American awareness through service and sisterhood. To bring together diverse women to build strong character, leadership skills, and confidence.",
+		"imageTag": 159,
+		"emails": "chisigs@uw.edu",
+		"category": "FRATERNITIES & SORORITIES - UGC",
+		"facebook": "NA"
+	},
+	{
+		"name": "Chi Theta Psi at UW",
+		"desc": "The mission of the Brotherhood of Chi Theta Psi shall be to fortify the Filipino through the four pillars of academic excellence, community service, cultural awareness, and unity. The Brotherhood shall empower the Filipino experience on campus by providing a platform for Filipino men to grow personally, professionally, and culturally. The brothers will also support the Filipino and Filipino American communities through service in order to set the example for current and future generations.",
+		"imageTag": 160,
+		"emails": "bctp@uw.edu",
+		"category": "FRATERNITIES & SORORITIES - UGC",
+		"facebook": "https://www.facebook.com/chithetapsi/"
+	},
+	{
+		"name": "Child and Adolescent Psychiatry Student Interest Group",
+		"desc": "To increase medical students' awareness of child & adolescent psychiatry through informational events, preceptorship opportunities, and service learning.",
+		"imageTag": 161,
+		"emails": "capsig@uw.edu",
+		"category": "MEDICAL / DENTAL / NURSING / PHARMACY",
+		"facebook": "NA"
+	},
+	{
+		"name": "Child Rights and You UW Chapter",
+		"desc": "Child Rights and You is an international organizations that has chapters all over the world. The goal of CRY is to have equality for all children in India, many of whom live in poverty and who are looked down upon because of the old caste system.",
+		"imageTag": 162,
+		"emails": "cryuw@uw.edu",
+		"category": "SPECIAL INTEREST",
+		"facebook": "https://www.facebook.com/cry.uw/?fref=ts"
+	},
+	{
+		"name": "China Entrepreneur Network",
+		"desc": "China Entrepreneur Network (CEN) is a collaborating organization of global university students and convenes youth leaders equipped with the humanity of the era and in pursuing social betterment. CEN aims to promote social innovation and entrepreneurs",
+		"imageTag": 163,
+		"emails": "cenuw@uw.edu",
+		"category": "BUSINESS",
+		"facebook": "NA"
+	},
+	{
+		"name": "Chinese Classical Dancing Group",
+		"desc": "Huaxi exists for communication between traditional Chinese culture and modern western culture. We perform Classical Chinese dance, hold interesting cultural activities, introduce traditional Chinese elements to broaden people's minds, and contribute to UW's cultural diversity.",
+		"imageTag": 164,
+		"emails": "ccdg@uw.edu",
+		"category": "CULTURAL / INTERNATIONAL",
+		"facebook": "NA"
+	},
+	{
+		"name": "Chinese Dance Association of UW",
+		"desc": "The purpose of CDA is to promote and incite interest in Chinese culture through Chinese classical and folk dance.",
+		"imageTag": 165,
+		"emails": "cdassoc@uw.edu",
+		"category": "CULTURAL / INTERNATIONAL",
+		"facebook": "https://www.facebook.com/groups/120830981920940/"
+	},
+	{
+		"name": "Chinese Student Association",
+		"desc": "To encourage a greater awareness of the Chinese culture and the Chinese American community, to harbor the Chinese American identity, and to initiate social and cultural interactions across all cultural groups.",
+		"imageTag": 166,
+		"emails": "csauw@uw.edu",
+		"category": "CULTURAL / INTERNATIONAL",
+		"facebook": "https://facebook.com/CSAUW"
+	},
+	{
+		"name": "Chinese Students and Scholars Association",
+		"desc": "Promoting mutual understanding, mutual assistance, and mutual benefits among UWCSSA members",
+		"imageTag": 167,
+		"emails": "cssa@uw.edu",
+		"category": "CULTURAL / INTERNATIONAL",
+		"facebook": "NA"
+	},
+	{
+		"name": "Chinese Taiwanese Student Organization",
+		"desc": "The purpose of the Chinese-Taiwanese Student Association at the University of Washington shall be to bridge the gap between the cultural differences of China and Taiwan.  Specifically, to eliminate any disconnect in cultural confusion between Chinese/Chinese-American and Taiwanese/Taiwanese-American students.",
+		"imageTag": 168,
+		"emails": "cntwn@uw.edu",
+		"category": "CULTURAL / INTERNATIONAL",
+		"facebook": "NA"
+	},
+	{
+		"name": "Chinese Theater Club",
+		"desc": "We aim to bring Chinese theater production to Seattle so more people can learn about Chinese culture and theater.",
+		"imageTag": 169,
+		"emails": "NA",
+		"category": "PERFORMING",
+		"facebook": "NA"
+	},
+	{
+		"name": "Choose Love: UW Chapter",
+		"desc": "It shall be the purpose of this organization to promote and encourage a network of individuals choosing to love others and the UW community through tangible exercises of agap� love.",
+		"imageTag": 170,
+		"emails": "loveuw@uw.edu",
+		"category": "POLITICAL / SOCIAL ACTION",
+		"facebook": "NA"
+	},
+	{
+		"name": "Chorale at the University of Washington",
+		"desc": "We strive to encourage the intellectual, aesthetic, and personal development of the choral community through the study and performance of music of the highest quality.",
+		"imageTag": 171,
+		"emails": "chorale@uw.edu",
+		"category": "PERFORMING",
+		"facebook": "https://www.facebook.com/UWChorale/"
+	},
+	{
+		"name": "Christian Students Association",
+		"desc": "The purpose of this club is to promote Christian fellowship and communication on campus.",
+		"imageTag": 172,
+		"emails": "christas@uw.edu",
+		"category": "RELIGIOUS / SPIRITUAL",
+		"facebook": "Christian Students Association UW"
+	},
+	{
+		"name": "Churchome",
+		"desc": "Our purpose is to show the world who Jesus is. With a location on Greek Row, our objective is to let UW students know that there is a church down the street for them to call home.",
+		"imageTag": 173,
+		"emails": "tccuw@uw.edu",
+		"category": "RELIGIOUS / SPIRITUAL",
+		"facebook": "Churchome - The City Church"
+	},
+	{
+		"name": "Circle K International",
+		"desc": "Internationally recognized student-led volunteer organization, sponsored by Kiwanis. We are a community-service organization at the University of Washington that specializes in volunteer work and community outreach in the Greater Seattle area. Join us for the fun!",
+		"imageTag": 174,
+		"emails": "circlkuw@uw.edu",
+		"category": "SPECIAL INTEREST",
+		"facebook": "https://www.facebook.com/groups/UWCKI/"
+	},
+	{
+		"name": "Class of 2021 at the University of Washington School of Dentistry",
+		"desc": "This organization�s purpose to inform, advocate and interact with members of the community in the context of oral health issues, inequity, inequality, and concerns. In addition, we seek to promote class involvement and the highest degree of professionalism through interactions with faculty and other classes within the University of Washington School of Dentistry.",
+		"imageTag": 175,
+		"emails": "uwsd2021@uw.edu",
+		"category": "MEDICAL / DENTAL / NURSING / PHARMACY",
+		"facebook": "NA"
+	},
+	{
+		"name": "Climbing Club at the University of Washington",
+		"desc": "The Climbing Club is an organization focusing on rock and ice climbing, mountaineering, scrambling, hiking, snowshoeing, and any other mountain sport. If it's on a mountain, we probably do it!",
+		"imageTag": 176,
+		"emails": "iac2@uw.edu",
+		"category": "SPORTS",
+		"facebook": "Climbing Club at the University of Washington"
+	},
+	{
+		"name": "Climbing Team at University of Washington",
+		"desc": "To provide an organization and community where student climbers of any level can connect, coordinate, and compete in the Northwest Collegiate Climbing Circuit and beyond.",
+		"imageTag": 177,
+		"emails": "climbuw@uw.edu",
+		"category": "SPORTS",
+		"facebook": "UW Climbing Team"
+	},
+	{
+		"name": "Clinical Research Club at the University of Washington",
+		"desc": "The University of Washington is a preeminent public institution that offers endless opportunities for its students to explore and follow their interests. One of the many ways students are able to follow their interests is to become involved in research. Through their involvement in research, they are able to learn more about their interests, create lasting positive mentor-relationships, and gain meaningful, relevant experience. However, this is not the case for most premedical students. While there are many avenues for students to become involved in research, there are few, if any for premedical students research experience in the medical field. \n\nThe purpose of this organization is to increase awareness amongst undergraduates about the availability of clinical research, to serve as a student-run clinical research advising center, but most importantly to connect these students to University of Washington Medical Center medical providers that are willing to consider undergraduate help for their ongoing or planned research projects. Our secondary purpose is promote the University of Washington as a research institution by helping these undergraduate students present their work at regional and national conferences.",
+		"imageTag": 178,
+		"emails": "crcuw@uw.edu",
+		"category": "MEDICAL / DENTAL / NURSING / PHARMACY",
+		"facebook": "NA"
+	},
+	{
+		"name": "Club Hockey @ UW",
+		"desc": "Our purpose if to provide a competitive and fun environment for those who wish to play the sport of ice hockey.",
+		"imageTag": 179,
+		"emails": "uwhockey@uw.edu",
+		"category": "SPORTS",
+		"facebook": "NA"
+	},
+	{
+		"name": "Collective, The",
+		"desc": "To offer UW students the opportunity to improve their skills in impovised theater as well as to entertain to the UW community.",
+		"imageTag": 180,
+		"emails": "improv@uw.edu",
+		"category": "PERFORMING",
+		"facebook": "https://facebook.com/collectiveimprov"
+	},
+	{
+		"name": "College of Education: Education, Communities, and Organizations Student Leadership Council",
+		"desc": "The ECO Student Leadership Council, ECO-SLC, is a collaborative organization within the College of Education, whose mission is to: \n\nfoster community among students in the ECO major,\n\nrepresent and advocate for the undergraduate population on committees and at events within the College of Education, and,\n\nBridge the gap between communities and the University of Washington to strengthen collaborative partnerships and work towards our common goal of creating a socially-just nation.",
+		"imageTag": 181,
+		"emails": "ecoslcuw@uw.edu",
+		"category": "ACADEMIC",
+		"facebook": "NA"
+	},
+	{
+		"name": "College Republicans at the University of Washington",
+		"desc": "We are a group of conservatives, ranging from socially conservative to libertarian.  Our goal is to advance the cause of conservatism on campus and to fight for free speech rights.  We seek to provide educational, social, job and volunteer opportunities for like minded conservatives.",
+		"imageTag": 182,
+		"emails": "NA",
+		"category": "POLITICAL / SOCIAL ACTION",
+		"facebook": "https://www.facebook.com/CollegeRepublicansUW/"
+	},
+	{
+		"name": "College Success Foundation Club - UW Chapter",
+		"desc": "To ensure success of students by creating a strong community within campus and with the College Success Foundation.",
+		"imageTag": 183,
+		"emails": "csfclub@uw.edu",
+		"category": "ACADEMIC",
+		"facebook": "https://www.facebook.com/CSFScholarsatUW"
+	},
+	{
+		"name": "Comedy Association at UW",
+		"desc": "Provide a Foster collaboration between UW and Seattle Comedians.",
+		"imageTag": 184,
+		"emails": "csexe@uw.edu",
+		"category": "PERFORMING",
+		"facebook": "NA"
+	},
+	{
+		"name": "Comedy Club",
+		"desc": "This comedy club is a welcoming, open environment intended to give individuals from all backgrounds and skill levels an opportunity to learn and practice the art of performing comedy.",
+		"imageTag": 185,
+		"emails": "comedyuw@uw.edu",
+		"category": "PERFORMING",
+		"facebook": "https://www.facebook.com/groups/233852553712568/"
+	},
+	{
+		"name": "Common Ground Fellowship",
+		"desc": "To promote unity and fellowship among college Christians, to encourage/develop students in their Christian faith, and to help students grow in their relationships with God and others.",
+		"imageTag": 186,
+		"emails": "ecccg@uw.edu",
+		"category": "RELIGIOUS / SPIRITUAL",
+		"facebook": "NA"
+	},
+	{
+		"name": "Communicating Science Conference-PNW 2018 Organizing Committee",
+		"desc": "To organize and coordinate the 2018 Communicating Science Conference - PNW",
+		"imageTag": 187,
+		"emails": "uwcsc@uw.edu",
+		"category": "GRADUATE / PROFESSIONAL",
+		"facebook": "NA"
+	},
+	{
+		"name": "Community Health Outreach",
+		"desc": "Community Health Outreach is a registered student organization that focuses on providing volunteer opportunities for pre-health students. We aim to inspire and connect students to volunteer in clinics that serve underrepresented communities and make an impact on community health. This RSO allows students to grow, get involved and connect with the community.",
+		"imageTag": 188,
+		"emails": "chealth@uw.edu",
+		"category": "HEALTH SCIENCES",
+		"facebook": "UW Community Health Outreach"
+	},
+	{
+		"name": "Community Heart Impact Advocates with American Heart Association",
+		"desc": "The purpose of this RSO is to promote heart healthy lifestyles choices through community education and coordinating outreach efforts with the American Heart Association. Through our efforts we will help decrease the incidence of cardiovascular disease and prevent adverse health outcomes.",
+		"imageTag": 189,
+		"emails": "NA",
+		"category": "HEALTH SCIENCES",
+		"facebook": "NA"
+	},
+	{
+		"name": "Compass and Chart Society",
+		"desc": "To unite its members socially and to foster an esprit de corps through participation in our training as future officers.",
+		"imageTag": 190,
+		"emails": "cncharts@uw.edu",
+		"category": "SPECIAL INTEREST",
+		"facebook": "NA"
+	},
+	{
+		"name": "Computer Graphics and Pretty Pictures",
+		"desc": "Teach and share knowledge of computer graphics, graphics programming, rendering techniques and project collaboration. All with the end goal of making pretty pictures :)\n\nTopics may include:\n\nthreejs\n\nwebgl\n\nprocessing (or p5js)\n\nopengl\n\nshaders\n\nray-tracing\n\nray-marching\n\nphysics simulation\n\ninteractive techniques\n\nocclusions techniques\n\nreal-time rendering techniques",
+		"imageTag": 191,
+		"emails": "cgppuw@uw.edu",
+		"category": "RECREATION",
+		"facebook": "NA"
+	},
+	{
+		"name": "Computing in Society at UW",
+		"desc": "Our RSO is dedicated to the investigation of interactions between society and computation as well as exploring the many forms computing can take in society.",
+		"imageTag": 192,
+		"emails": "compns@uw.edu",
+		"category": "ACADEMIC",
+		"facebook": "NA"
+	},
+	{
+		"name": "Concrete Canoe",
+		"desc": "The Concrete Canoe club is a group of aspiring engineers who work to design, construct, and race a canoe made out of concrete each year.  Our goal is to promote engineering through hands-on experience and by demonstrating the extent of modern engineering capabilities.",
+		"imageTag": 193,
+		"emails": "uwcanoe@uw.edu",
+		"category": "ENGINEERING",
+		"facebook": "https://www.facebook.com/uwconcretecanoe"
+	},
+	{
+		"name": "Cooking and Baking Club",
+		"desc": "Sharing recipes with one another, answer or solve questions related to cooking and baking, and to share the location of exceptional restaurants or shops to purchase kitchen supplies. The purpose of this organization further consists of holding cooking or baking classes taught by either a blub administrator, club member, or professional chef. This classes may or may not coincide with festivals or holidays (e.g. Christmas, Halloween, Valentine's day, etc.) in which case they will be regarded as special classes. Lastly, the intent of this organization is to provide members-only discounts to restaurants near the University of Washington.",
+		"imageTag": 194,
+		"emails": "cookbake@uw.edu",
+		"category": "SPECIAL INTEREST",
+		"facebook": "https://www.facebook.com/uwcookingandbaking/"
+	},
+	{
+		"name": "Costume Club",
+		"desc": "The Costume Club will practice creative and technical skills to design and construct costumes. We will promote student interest in creation of costumes including high fashion, theater, and cosplay, and share the skills and practices of costume creation with anyone who wishes to learn.",
+		"imageTag": 195,
+		"emails": "costume@uw.edu",
+		"category": "SPECIAL INTEREST",
+		"facebook": "NA"
+	},
+	{
+		"name": "Creating a Company at UW",
+		"desc": "CAC is designed to introduce students to the basic steps required to start and actually run a business of their choosing.",
+		"imageTag": 196,
+		"emails": "createco@uw.edu",
+		"category": "ACADEMIC",
+		"facebook": "NA"
+	}
+]
