@@ -16,6 +16,8 @@ Vue.use(VueFuse)
 // Class imports
 import MainApp from "./MainApp.vue" // Stores router-view, nesting everything below:
 import Home from "./components/Home.vue"
+import Search from "./components/Search.vue"
+
 
 // Setup routing
 const routes = [

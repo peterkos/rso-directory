@@ -63,7 +63,7 @@
 			</div>
 
 		</section>
-
+		<hr>
 		<!-- All subviews go inside here! -->
 		<section class="section">
 			<div class="container">

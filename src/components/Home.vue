@@ -1,13 +1,13 @@
 <template>
 	<div id="home">
 
-		<!-- This is the first view shown to the user. -->
-		<h1 class="title has-text-centered is-vcentered">Hello, World!</h1>
-
+		<!-- Search -->
+		<Search></Search>
 
 		<!-- Let's show a table of RSOs -->
 		<div class="columns is-centered">
-			<div class="column is-half">
+			<div class="column is-four-fifths">
+
 				<table class="table is-hoverable is-fullwidth is-striped">
 					<thead>
 						<th class="has-text-centered">Logo</th>
@@ -15,12 +15,12 @@
 						<th class="has-text-centered">Description</th>
 					</thead>
 					<tbody>
-						<tr v-for="rso in rsos" :key="rso.imageTag">
+						<tr v-for="rso in rsos" :key="rso.name">
 							<td class="">
 								<!-- @FIXME: Image aspect ratioz -->
 								<img :src="imageURLs[rso.imageTag]" class="image is-96x96"/>
 							</td>
-							<td>{{ rso.name }}</td>
+							<td><p class="is-size-5">{{ rso.name }}</p></td>
 							<td>{{ rso.description }}</td>
 						</tr>
 					</tbody>
@@ -36,6 +36,7 @@
 	import VueFuse from 'vue-fuse'
 	import db from '../db.js'
 
+	import Search from "./Search.vue"
 
 	export default {
 		name: 'Home',
@@ -44,6 +45,9 @@
 				rsos: db.ref('/')
 				// @TODO: See manual bunding in vuefire readme -- may allow for nested properties
 			}
+		},
+		components: {
+			Search
 		},
 		data() {
 			return {
