@@ -18,9 +18,7 @@
 						<tr v-for="rso in rsos" :key="rso.imageTag">
 							<td class="">
 								<!-- @FIXME: Image aspect ratioz -->
-								{{ getImage(rso) }}
-								<!-- <img :src="imageURLs[rso.imageTag]" class="image is-96x96"/> -->
-								<p>{{imageURLs[rso.imageTag]}}</p>
+								<img :src="imageURLs[rso.imageTag]" class="image is-96x96"/>
 							</td>
 							<td>{{ rso.name }}</td>
 							<td>{{ rso.description }}</td>
@@ -57,42 +55,49 @@
 				imageURLs: []
 			}
 		},
-		methods: {
-			getImage(currentRSO) {
+		mounted() {
 
-				// Sets proper this
-				let current = this
+			// Sets proper this
+			let current = this
 
-				// @TODO: Update rso.image for each RSO given its tag
-				// Setting up FB Storage
-				var storageRef = Firebase.storage().ref()
-				var firstImageRef = storageRef.child(currentRSO.imageTag.toString() + ".png")
+			var storageRef = Firebase.storage().ref() // Reference imaages in storaage
+			var imageValues = [] // Image urls themselves, @TODO change name
+
+			// Iterate through each database value
+			var query = db.ref("/").orderByChild("imageTag")
+
+			query.once("value").then(function(snapshot) {
+				snapshot.forEach(function(childSnapshot) {
+
+					let imageTag = childSnapshot.val().imageTag
+					let imageRef = storageRef.child(imageTag.toString() + ".jpg")
+					imageRef.getDownloadURL().then(function(url) {
+
+						// Insert at position of imageTag
+						imageValues.splice(imageTag, 0, url)
+
+					}).catch(function(error) {
+
+						// @TODO: Add 404 image or something
+						console.log("[ERROR] " + error.code + " | " + error.message)
+						imageValues.splice(imageTag, 0, "oops")
+					})
 
 
-				// if (firstImageRef == null) {
-				// 	console.log("not null")
-				// 	return
-				// } else {
-				// 	console.log("not null")
-				// }
-				// console.log(currentRSO.imageTag)
-
-				// @FIXME Fixme, please.
-				// Don't grab URL if url already exists
-				// Precondition: imageTag is a index corresponding to the RSO
-				if (this.imageURLs[currentRSO.imageTag]) {
-					return
-				}
-
-				// Actually grab it
-				firstImageRef.getDownloadURL().then(function(url) {
-					current.imageURLs.push(url)
-					console.log(url)
-				}).catch(function(error) {
-					// console.log(error)
 				})
+			}).catch(function(error) {
+				console.log("First error: " + error)
+			}).then(function() {
+				// Write back to main Vue instance for Proper Image Usage
+				// @TODO: Clear up loading animation here
+				// @TODO: Add a loading animation in the first place
+				current.imageURLs = imageValues
+			}).catch(function(error) {
+				console.log("Second error: " + error)
+			})
 
-			},
+		},
+		methods: {
 		}
 	}
 </script>
