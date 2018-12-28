@@ -2,12 +2,22 @@
 	<div id="home">
 
 		<!-- Search -->
-		<Search></Search>
-
-		<!-- Let's show a table of RSOs -->
 		<div class="columns is-centered">
-			<div class="column is-four-fifths">
+			<div class="column is-two-thirds">
+				<Search></Search>
+			</div>
+		</div>
 
+		<!-- All data and filterin gparameters -->
+		<div class="columns is-centered">
+
+
+			<div class="column is-one-third">
+				<div class="box" style="height: 200px"></div>
+			</div>
+
+			<!--  Column of our data -->
+			<div class="column">
 				<table class="table is-hoverable is-fullwidth is-striped">
 					<thead>
 						<th class="has-text-centered">Logo</th>
@@ -26,6 +36,8 @@
 					</tbody>
 				</table>
 			</div>
+
+
 
 		</div>
 	</div>
