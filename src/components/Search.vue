@@ -11,6 +11,7 @@
 				placeholder="Dubstech, HuskyRobotics...."
 				:tokenize=true
 				:list="rsos"
+				:threshold="0.3"
 				:keys="searchKeys"
 				:default-all="false"
 				event-name="fuse-results-updated"

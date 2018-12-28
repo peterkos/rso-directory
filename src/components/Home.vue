@@ -54,7 +54,7 @@
 		name: 'Home',
 		firebase: function() {
 			return {
-				rsos: db.ref('/')
+				rsos: db.ref('/').limitToFirst(this.rsoLimit)
 				// @TODO: See manual bunding in vuefire readme -- may allow for nested properties
 			}
 		},
@@ -68,6 +68,7 @@
 					description: "",
 					imageTag: "",
 				},
+				rsoLimit: 20, // Current limit on number of RSOs to load
 				imageURLs: []
 			}
 		},
@@ -80,7 +81,7 @@
 			var imageValues = [] // Image urls themselves, @TODO change name
 
 			// Iterate through each database value
-			var query = db.ref("/").orderByChild("imageTag")
+			var query = db.ref("/").orderByChild("imageTag").limitToFirst(this.rsoLimit)
 
 			query.once("value").then(function(snapshot) {
 				snapshot.forEach(function(childSnapshot) {
