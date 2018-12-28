@@ -4,7 +4,7 @@
 		<!-- Search -->
 		<div class="columns is-centered">
 			<div class="column is-two-thirds">
-				<Search></Search>
+				<search :rsos="rsos"></search>
 			</div>
 		</div>
 
@@ -59,7 +59,7 @@
 			}
 		},
 		components: {
-			Search
+			"search": Search
 		},
 		data() {
 			return {
