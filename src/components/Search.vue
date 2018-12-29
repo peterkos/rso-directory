@@ -13,21 +13,20 @@
 				:list="rsos"
 				:threshold="0.3"
 				:keys="searchKeys"
-				:default-all="false"
+				:default-all="true"
 				event-name="fuse-results-updated"
 				@fuse-results-updated="showResults($event)"/>
 			</div>
 			<div class="control">
-				<a class="button is-info is-large">asdf</a>
+				<a class="button is-info is-large">Search</a>
 			</div>
 		</div>
 
 
-		<!-- <p>{{searchResults}}</p> -->
-		<ul v-for="result in searchResults">
+		<!-- Show current list for debugging -->
+		<!-- <ul v-for="result in searchResults">
 			<li>{{result.name}}</li>
-		</ul>
-
+		</ul> -->
 
 
 	</section>
@@ -55,7 +54,9 @@
 		methods: {
 			showResults(results) {
 				this.searchResults = results
-				console.log("SHOWING")
+
+				// Emit event to parent component
+				this.$emit('search', results)
 			}
 		}
 	}

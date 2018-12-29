@@ -4,7 +4,7 @@
 		<!-- Search -->
 		<div class="columns is-centered">
 			<div class="column is-two-thirds">
-				<search :rsos="rsos"></search>
+				<search :rsos="rsos" @search="executedSearch"></search>
 			</div>
 		</div>
 
@@ -25,7 +25,7 @@
 						<th class="has-text-centered">Description</th>
 					</thead>
 					<tbody>
-						<tr v-for="rso in rsos" :key="rso.name">
+						<tr v-for="rso in searchResults" :key="rso.name">
 							<td class="">
 								<!-- @FIXME: Image aspect ratioz -->
 								<img :src="imageURLs[rso.imageTag]" class="image is-96x96"/>
@@ -69,7 +69,8 @@
 					imageTag: "",
 				},
 				rsoLimit: 20, // Current limit on number of RSOs to load
-				imageURLs: []
+				imageURLs: [],
+				searchResults: []
 			}
 		},
 		mounted() {
@@ -115,6 +116,9 @@
 
 		},
 		methods: {
+			executedSearch(results) {
+				this.searchResults = results
+			}
 		}
 	}
 </script>
