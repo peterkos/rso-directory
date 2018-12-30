@@ -1,5 +1,5 @@
 <template>
-	<div id="home">
+	<div id="home" class="dataArea">
 
 		<!-- Search -->
 		<div class="columns is-centered">
@@ -8,16 +8,15 @@
 			</div>
 		</div>
 
-		<!-- All data and filterin gparameters -->
-		<div class="columns is-centered">
+		<!-- All data and filtering parameters -->
+		<div class="columns is-centered is-marginless">
 
+			<!-- <div class="column is-one-third"> -->
+				<!-- <div class="box" style="height: 200px"></div> -->
+				<!-- </div> -->
 
-			<div class="column is-one-third">
-				<div class="box" style="height: 200px"></div>
-			</div>
-
-			<!--  Column of our data -->
-			<div class="column">
+				<!--  Column of our data -->
+			<!-- <div class="column">
 				<table class="table is-hoverable is-fullwidth is-striped">
 					<thead>
 						<th class="has-text-centered">Logo</th>
@@ -27,14 +26,28 @@
 					<tbody>
 						<tr v-for="rso in searchResults" :key="rso.name">
 							<td class="">
-								<!-- @FIXME: Image aspect ratioz -->
-								<img :src="imageURLs[rso.imageTag]" class="image is-96x96"/>
+								@FIXME: Image aspect ratioz
+								<img :src="imageURLs[rso.imageTag]" class="image rsoImage"/>
 							</td>
 							<td><p class="is-size-5">{{ rso.name }}</p></td>
 							<td>{{ rso.description }}</td>
 						</tr>
 					</tbody>
 				</table>
+			</div> -->
+
+			<div class="tile is-ancestor">
+				<div class="tile rsoTiles">
+					<!-- <div class="tile notification is-warning" v-for="rso in searchResults" :key="rso.name"> -->
+						<article class="tile notification is-3 is-primary" v-for="rso in searchResults" :key="rso.name">
+							<div class="fuck">
+								<p class="title">{{rso.name}}</p>
+								<p class="subtitle">{{rso.desc}}</p>
+							</div>
+						</article>
+
+					</div>
+				</div>
 			</div>
 
 
@@ -68,7 +81,7 @@
 					description: "",
 					imageTag: "",
 				},
-				rsoLimit: 20, // Current limit on number of RSOs to load
+				rsoLimit: 40, // Current limit on number of RSOs to load
 				imageURLs: [],
 				searchResults: []
 			}

@@ -184,10 +184,10 @@
 		<hr>
 		<!-- All subviews go inside here! -->
 		<section class="section">
-			<div class="container">
+			<!-- <div class="container"> -->
 				<h1 class="title is-1">Browse below.</h1>
 				<router-view></router-view>
-			</div>
+			<!-- </div> -->
 		</section>
 	</div>
 
