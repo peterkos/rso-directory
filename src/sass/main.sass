@@ -6,15 +6,49 @@
 // body
 	// height: 100%
 
+
+$color1: rgba(11, 0, 51, 1)
+$color2: rgba(55, 0, 49, 1)
+$color3: rgba(131, 34, 50, 1)
+$color4: rgba(206, 137, 100, 1)
+$color5: rgba(234, 242, 124, 1)
+
+
+// @FIXME: Better color identifiers would be great
+.hasHeroColor
+	background-color: $color2
+	color: white
+.hasSectionColor
+	background-color: $color1
+.hasCategoryColor
+	background-color: $color3
+.hasBrowseColor
+	background-color: $color4
+
+
+
+// Info boxes
+.outlineBox
+	background-color: $color5
+	border-radius: $box-radius
+	box-shadow: $box-shadow
+	color: $box-color
+	display: block
+	padding: $box-padding
+
+
+.is-child
+	transition: all 0.3s
+
+	&:hover
+		// box-shadow: 3px 3px 10px lighten($color3, 5%)
+		transform: scale(1.1)
+
+
+
 .has-more-padding
 	padding-left: 200px
 	padding-right: 200px
-
-.techSection
-	background-color: $black
-
-.outreachSection
-	background-color: $green
 
 .dataArea
 	// height: 2000px
