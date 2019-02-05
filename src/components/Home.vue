@@ -38,14 +38,9 @@
 
 			<div class="tile is-ancestor">
 				<div class="tile rsoTiles">
-					<!-- <div class="tile notification is-warning" v-for="rso in searchResults" :key="rso.name"> -->
-						<article class="tile notification is-3 is-primary" v-for="rso in searchResults" :key="rso.name">
-							<div class="fuck">
-								<p class="title">{{rso.name}}</p>
-								<p class="subtitle">{{rso.desc}}</p>
-							</div>
-						</article>
-
+					<div class="tile notification is-warning is-3 is-block" v-for="rso in searchResults" :key="rso.name">
+						<p class="title">{{rso.name}}</p>
+						<p class="subtitle">{{rso.desc | trimRSO}}</p>
 					</div>
 				</div>
 			</div>
@@ -131,6 +126,16 @@
 		methods: {
 			executedSearch(results) {
 				this.searchResults = results
+			}
+		},
+		filters: {
+			trimRSO: function(value) {
+				if (!value) {
+					return ''
+				}
+
+				value = value.toString()
+				return value.substring(0, 200) + "...."
 			}
 		}
 	}
